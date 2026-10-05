@@ -1,0 +1,56 @@
+{
+ "collections": {
+  "pageInfo": {
+   "hasNextPage": true,
+   "endCursor": "eyJsYXN0X2lkIjoyNjE1NTEzOTA4MDAsImxhc3RfdmFsdWUiOiI5OCIsInRpdGxlIjoiOTgiLCJ0aXRsZV9ub3JtYWxpemVkIjoiOTgiLCJvZmZzZXQiOjJ9"
+  },
+  "nodes": [
+   {
+    "id": "gid://shopify/Collection/263506919504",
+    "handle": "109-tree-dashers-for-outlet-discount-code",
+    "title": "$109 Tree Dashers for Outlet Discount Code",
+    "description": "",
+    "descriptionHtml": "",
+    "updatedAt": "2026-07-08T20:39:47Z",
+    "onlineStoreUrl": "https://www.allbirds.com/collections/109-tree-dashers-for-outlet-discount-code",
+    "image": null,
+    "seo": {
+     "title": null,
+     "description": null
+    }
+   },
+   {
+    "id": "gid://shopify/Collection/270995030096",
+    "handle": "30-off-tree-runner-go-tree-gliders",
+    "title": "30% Off Tree Runner Go & Tree Gliders",
+    "description": "",
+    "descriptionHtml": "",
+    "updatedAt": "2026-10-04T11:02:26Z",
+    "onlineStoreUrl": "https://www.allbirds.com/collections/30-off-tree-runner-go-tree-gliders",
+    "image": null,
+    "seo": {
+     "title": null,
+     "description": null
+    }
+   },
+   {
+    "id": "gid://shopify/Collection/261551390800",
+    "handle": "98",
+    "title": "98",
+    "description": "",
+    "descriptionHtml": "",
+    "updatedAt": "2026-10-04T11:02:26Z",
+    "onlineStoreUrl": "https://www.allbirds.com/collections/98",
+    "image": null,
+    "seo": {
+     "title": null,
+     "description": null
+    }
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

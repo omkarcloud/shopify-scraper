@@ -1,0 +1,256 @@
+{
+ "predictiveSearch": {
+  "queries": [
+   {
+    "text": "coffee",
+    "styledText": "<mark>cof</mark><span>fee</span>"
+   },
+   {
+    "text": "light roast coffee",
+    "styledText": "<span>light roast </span><mark>cof</mark><span>fee</span>"
+   }
+  ],
+  "products": [
+   {
+    "id": "gid://shopify/Product/263612097",
+    "handle": "death-wish-coffee",
+    "title": "Dark Roast Coffee",
+    "vendor": "Death Wish Coffee Company",
+    "productType": "Coffee",
+    "description": "DARKER ROAST FOR BOLDER DAYS. Meet the yin to your yang. While you grit your teeth through the daily grind, know this bold and delicious dark roast brew will have your back all day long. Certified Fair Trade and Organic, our balanced blend of arabica beans for smooth flavor and robusta for natural strength will kick the midday crash to the curb. Find harmony, no matter the horrors your day has ...",
+    "availableForSale": true,
+    "isGiftCard": false,
+    "requiresSellingPlan": false,
+    "createdAt": "2014-03-12T17:27:30Z",
+    "updatedAt": "2026-10-05T07:40:58Z",
+    "publishedAt": "2021-02-12T17:42:39Z",
+    "tags": [
+     "Bagged",
+     "Dark",
+     "Dark Roast",
+     "Intro Offer",
+     "National Coffee Day",
+     "Subscription"
+    ],
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/products/death-wish-coffee",
+    "featuredImage": {
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Ground_Angle_DTC_A4_2.jpg?v=1726752263",
+     "altText": "Death Wish Coffee - Dark Roast Ground 16oz Bag.",
+     "width": 1500,
+     "height": 1500
+    },
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "19.99",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "84.99",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    },
+    "options": [
+     {
+      "name": "Type",
+      "optionValues": [
+       {
+        "name": "Ground"
+       },
+       {
+        "name": "Whole Bean"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "optionValues": [
+       {
+        "name": "1 lb"
+       },
+       {
+        "name": "2 lbs"
+       },
+       {
+        "name": "3 lbs"
+       },
+       {
+        "name": "5 lbs"
+       }
+      ]
+     }
+    ],
+    "category": {
+     "id": "gid://shopify/TaxonomyCategory/fb-1-3",
+     "name": "Coffee"
+    },
+    "variantsCount": {
+     "count": 8
+    }
+   },
+   {
+    "id": "gid://shopify/Product/4657897373751",
+    "handle": "medium-roast",
+    "title": "Medium Roast Coffee",
+    "vendor": "Death Wish Coffee Company",
+    "productType": "Coffee",
+    "description": "A happy medium without compromise. Our Medium Roast Coffee delivers a bold, full-bodied yet smooth and flavorful brew that will awaken your taste buds. Smooth and balanced with a complex flavor profile including subtle undertones of stone fruit and caramel, we recommend at least one cup first thing in the morning in total isolation. CAFFEINE CONTENT: Medium Roast Coffee contains approximately 1...",
+    "availableForSale": true,
+    "isGiftCard": false,
+    "requiresSellingPlan": false,
+    "createdAt": "2020-12-21T15:20:00Z",
+    "updatedAt": "2026-10-05T09:41:24Z",
+    "publishedAt": "2021-02-09T23:00:01Z",
+    "tags": [
+     "Bagged",
+     "Intro Offer",
+     "Medium",
+     "Medium Roast",
+     "National Coffee Day",
+     "Subscription"
+    ],
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/products/medium-roast",
+    "featuredImage": {
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Medium_Roast_16oz_Ground_Angle_DTC_A4_2.jpg?v=1726752632",
+     "altText": "Death Wish Coffee - Medium Roast 16oz Ground Bag.",
+     "width": 1500,
+     "height": 1500
+    },
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "19.99",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "84.99",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    },
+    "options": [
+     {
+      "name": "Type",
+      "optionValues": [
+       {
+        "name": "Ground"
+       },
+       {
+        "name": "Whole Bean"
+       }
+      ]
+     },
+     {
+      "name": "Size",
+      "optionValues": [
+       {
+        "name": "1 lb"
+       },
+       {
+        "name": "2 lbs"
+       },
+       {
+        "name": "3 lbs"
+       },
+       {
+        "name": "5 lbs"
+       }
+      ]
+     }
+    ],
+    "category": {
+     "id": "gid://shopify/TaxonomyCategory/fb-1-3",
+     "name": "Coffee"
+    },
+    "variantsCount": {
+     "count": 8
+    }
+   }
+  ],
+  "collections": [
+   {
+    "id": "gid://shopify/Collection/266419798071",
+    "handle": "instant-coffee",
+    "title": "Instant Coffee",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/instant-coffee",
+    "image": null
+   },
+   {
+    "id": "gid://shopify/Collection/266387423287",
+    "handle": "organic-coffee",
+    "title": "Organic Coffee",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/organic-coffee",
+    "image": null
+   }
+  ],
+  "pages": [
+   {
+    "id": "gid://shopify/Page/83708051511",
+    "handle": "subscription",
+    "title": "Coffee Subscription | Death Wish Coffee Co.",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/pages/subscription"
+   },
+   {
+    "id": "gid://shopify/Page/81107779639",
+    "handle": "coffee-notes",
+    "title": "Coffee Notes",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/pages/coffee-notes"
+   }
+  ],
+  "articles": [
+   {
+    "id": "gid://shopify/Article/883916813",
+    "handle": "coffee-without-a-machine",
+    "title": "How to Make Coffee Without a Coffee Maker",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/coffee-talk/coffee-without-a-machine",
+    "image": {
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/articles/No-Coffe-Maker-Hero.jpg?v=1650551012",
+     "altText": "A couple sitting around a campfire making cowboy coffee with Death Wish Coffee.",
+     "width": 2000,
+     "height": 800
+    },
+    "blog": {
+     "handle": "coffee-talk",
+     "title": "Coffee Talk"
+    }
+   },
+   {
+    "id": "gid://shopify/Article/865861645",
+    "handle": "iced-coffee-more-expensive",
+    "title": "Why is iced coffee more expensive than hot coffee?",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/lifestyle/iced-coffee-more-expensive",
+    "image": {
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/articles/iced_coffee_death_wish.jpg?v=1703095890",
+     "altText": "Iced coffee in a clear coffee mug.",
+     "width": 1200,
+     "height": 628
+    },
+    "blog": {
+     "handle": "lifestyle",
+     "title": "Lifestyle"
+    }
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

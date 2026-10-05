@@ -1,0 +1,39 @@
+{
+ "nodes": [
+  {
+   "id": "gid://shopify/Product/1878193471557",
+   "rating": {
+    "value": "{\"scale_min\":\"1.0\",\"scale_max\":\"5.0\",\"value\":\"4.6\"}"
+   },
+   "ratingCount": {
+    "value": "6574"
+   },
+   "metafields": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  }
+ ]
+}

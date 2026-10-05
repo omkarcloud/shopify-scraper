@@ -1,0 +1,10 @@
+services:
+  shopify-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Shopify stores answer plain requests, so leave this unset.
+      # - SHOPIFY_PROXY=http://user:pass@host:port

@@ -1,0 +1,350 @@
+{
+ "search": {
+  "totalCount": 459,
+  "pageInfo": {
+   "hasNextPage": true,
+   "endCursor": "eyJwYWdlIjoyLCJsYXN0X2lkIjo0ODI2MTk3NjU1NjMyLCJyZXZlcnNlIjp0cnVlLCJvZmZzZXQiOjF9"
+  },
+  "productFilters": [
+   {
+    "id": "filter.p.m.allbirds_v2.category_sizes",
+    "label": "Size",
+    "type": "LIST",
+    "values": [
+     {
+      "id": "filter.p.m.allbirds_v2.category_sizes.gid-shopify-filtersettinggroup-51118160",
+      "label": "XL",
+      "count": 36,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"gid:\\/\\/shopify\\/FilterSettingGroup\\/51118160\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_sizes.5",
+      "label": "5",
+      "count": 239,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"5\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_sizes.5-5",
+      "label": "5.5",
+      "count": 169,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"5.5\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_sizes.6",
+      "label": "6",
+      "count": 239,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"6\"}}"
+     }
+    ]
+   },
+   {
+    "id": "filter.p.m.allbirds_v2.category_hues",
+    "label": "Color",
+    "type": "LIST",
+    "values": [
+     {
+      "id": "filter.p.m.allbirds_v2.category_hues.black",
+      "label": "black",
+      "count": 94,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"black\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_hues.grey",
+      "label": "grey",
+      "count": 115,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"grey\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_hues.white",
+      "label": "white",
+      "count": 105,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"white\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_hues.beige",
+      "label": "beige",
+      "count": 49,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"beige\"}}"
+     }
+    ]
+   },
+   {
+    "id": "filter.v.price",
+    "label": "Price",
+    "type": "PRICE_RANGE",
+    "values": [
+     {
+      "id": "filter.v.price",
+      "label": "Price",
+      "count": 0,
+      "input": "{\"price\":{\"min\":0,\"max\":165.0}}"
+     }
+    ]
+   },
+   {
+    "id": "filter.p.m.allbirds_v2.category_subtypes",
+    "label": "Product Type",
+    "type": "LIST",
+    "values": [
+     {
+      "id": "filter.p.m.allbirds_v2.category_subtypes.everyday-sneakers",
+      "label": "Everyday Sneakers",
+      "count": 366,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"Everyday Sneakers\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_subtypes.flats",
+      "label": "Flats",
+      "count": 10,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"Flats\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_subtypes.high-tops",
+      "label": "High Tops",
+      "count": 30,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"High Tops\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_subtypes.hiking-shoes",
+      "label": "Hiking Shoes",
+      "count": 29,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"Hiking Shoes\"}}"
+     }
+    ]
+   },
+   {
+    "id": "filter.p.m.allbirds_v2.category_material",
+    "label": "Material",
+    "type": "LIST",
+    "values": [
+     {
+      "id": "filter.p.m.allbirds_v2.category_material.alternative-leather",
+      "label": "alternative-leather",
+      "count": 12,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"alternative-leather\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_material.canvas",
+      "label": "canvas",
+      "count": 34,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"canvas\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_material.corduroy",
+      "label": "corduroy",
+      "count": 6,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"corduroy\"}}"
+     },
+     {
+      "id": "filter.p.m.allbirds_v2.category_material.cotton",
+      "label": "cotton",
+      "count": 53,
+      "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"cotton\"}}"
+     }
+    ]
+   }
+  ],
+  "nodes": [
+   {
+    "id": "gid://shopify/Product/1878275686469",
+    "handle": "womens-wool-runners-natural-black",
+    "title": "Women's Wool Runner - Natural Black (Black Sole)",
+    "vendor": "Allbirds",
+    "productType": "Shoes",
+    "description": "The Allbirds Wool Runner is the original wool sneaker that started it all. Called the world's most comfortable shoe, it's flexible, supportive, astonishingly soft, and machine washable. The Wool Runner is breathable, lightweight, and can be worn sockless. Best used for walking, cooler weather, and everyday casual wear.",
+    "availableForSale": true,
+    "isGiftCard": false,
+    "requiresSellingPlan": false,
+    "createdAt": "2018-11-12T23:06:15Z",
+    "updatedAt": "2026-10-05T01:00:35Z",
+    "publishedAt": "2026-06-16T18:01:45Z",
+    "tags": [
+     "allbirds::carbon-score => 7.07",
+     "allbirds::cfId => color-womens-wool-runners-natural-black",
+     "allbirds::complete => true",
+     "allbirds::edition => classic",
+     "allbirds::gender => womens",
+     "allbirds::hue => black",
+     "allbirds::master => womens-wool-runners",
+     "allbirds::material => wool",
+     "allbirds::price-tier => msrp",
+     "allbirds::silhouette => runner",
+     "allbirdskit::kit-discount-2c1bmbSUmqIAxb6DrSxejL => 9",
+     "allbirdskit::kit-id => 2c1bmbSUmqIAxb6DrSxejL",
+     "allbirdskit::kit-size-2c1bmbSUmqIAxb6DrSxejL => 2",
+     "DNAM BRANDS",
+     "loop::returnable => true",
+     "SF OUTLET INVENTORY",
+     "shoprunner",
+     "WRENTHAM OUTLETS",
+     "YCRF_womens-move-shoes",
+     "YGroup_ygroup_womens-wool-runners"
+    ],
+    "onlineStoreUrl": "https://www.allbirds.com/products/womens-wool-runners-natural-black",
+    "featuredImage": {
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Black_LAT.png?v=1751143102",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    },
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    },
+    "options": [
+     {
+      "name": "Size",
+      "optionValues": [
+       {
+        "name": "5"
+       },
+       {
+        "name": "6"
+       },
+       {
+        "name": "7"
+       },
+       {
+        "name": "8"
+       },
+       {
+        "name": "9"
+       },
+       {
+        "name": "10"
+       },
+       {
+        "name": "11"
+       }
+      ]
+     }
+    ],
+    "category": {
+     "id": "gid://shopify/TaxonomyCategory/aa-8",
+     "name": "Shoes"
+    },
+    "variantsCount": {
+     "count": 7
+    }
+   },
+   {
+    "id": "gid://shopify/Product/4826197655632",
+    "handle": "mens-wool-runners-true-black",
+    "title": "Men's Wool Runner - True Black (Cream Sole)",
+    "vendor": "Allbirds",
+    "productType": "Shoes",
+    "description": "The Allbirds Wool Runner is the orginal wool sneaker that started it all. Called the world's most comfortable shoe, it's flexible, supportive, astonishingly soft, and machine washable. The Wool Runner is breathable, lightweight, and can be worn sockless. Best used for walking, cooler weather, and everyday casual wear.",
+    "availableForSale": false,
+    "isGiftCard": false,
+    "requiresSellingPlan": false,
+    "createdAt": "2020-10-21T22:43:53Z",
+    "updatedAt": "2026-10-02T22:07:35Z",
+    "publishedAt": "2026-06-16T18:02:10Z",
+    "tags": [
+     "allbirds::carbon-score => 7.07",
+     "allbirds::cfId => color-mens-wool-runners-true-black-cream",
+     "allbirds::complete => true",
+     "allbirds::edition => classic",
+     "allbirds::gender => mens",
+     "allbirds::hue => black",
+     "allbirds::master => mens-wool-runners",
+     "allbirds::material => wool",
+     "allbirds::price-tier => msrp",
+     "allbirds::silhouette => runner",
+     "allbirdskit::kit-discount-3ct4WFypIJAqgLRmxHMOf5 => 9",
+     "allbirdskit::kit-id => 3ct4WFypIJAqgLRmxHMOf5",
+     "allbirdskit::kit-size-3ct4WFypIJAqgLRmxHMOf5 => 2",
+     "DNAM BRANDS",
+     "loop::returnable => true",
+     "SF OUTLET INVENTORY",
+     "shoprunner",
+     "WRENTHAM OUTLETS",
+     "YCRF_mens-move-shoes",
+     "YGroup_ygroup_mens-wool-runners"
+    ],
+    "onlineStoreUrl": "https://www.allbirds.com/products/mens-wool-runners-true-black",
+    "featuredImage": {
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/WR3MTBK_SHOE_LEFT_GLOBAL_MENS_WOOL_RUNNER_TRUE_BLACK_CREAM_e5a8bc76-ac77-4fd6-a372-52c8f970aa52.png?v=1751144635",
+     "altText": null,
+     "width": 1110,
+     "height": 1110
+    },
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    },
+    "options": [
+     {
+      "name": "Size",
+      "optionValues": [
+       {
+        "name": "8"
+       },
+       {
+        "name": "9"
+       },
+       {
+        "name": "10"
+       },
+       {
+        "name": "11"
+       },
+       {
+        "name": "12"
+       },
+       {
+        "name": "13"
+       },
+       {
+        "name": "14"
+       }
+      ]
+     }
+    ],
+    "category": {
+     "id": "gid://shopify/TaxonomyCategory/aa-8",
+     "name": "Shoes"
+    },
+    "variantsCount": {
+     "count": 7
+    }
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

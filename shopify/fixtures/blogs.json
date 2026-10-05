@@ -1,0 +1,118 @@
+{
+ "blogs": {
+  "pageInfo": {
+   "hasNextPage": true,
+   "endCursor": "eyJsYXN0X2lkIjo3NzE3MTM1OTc5OSwibGFzdF92YWx1ZSI6NzcxNzEzNTk3OTksIm9mZnNldCI6Mn0="
+  },
+  "nodes": [
+   {
+    "id": "gid://shopify/Blog/3080513",
+    "handle": "news",
+    "title": "Death Wish Coffee Blog",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news",
+    "seo": {
+     "title": null,
+     "description": "Welcome to the Death Wish Coffee Company blog. You'll find pictures, recipes, reviews, lists, and other awesome news. Enjoy!"
+    },
+    "authors": [
+     {
+      "name": "DTC Admin",
+      "bio": ""
+     },
+     {
+      "name": "Austin Trainor",
+      "bio": null
+     },
+     {
+      "name": "Jeff Ayers",
+      "bio": ""
+     },
+     {
+      "name": "530medialab Collaborator",
+      "bio": null
+     },
+     {
+      "name": "Unified Districts Collaborator",
+      "bio": null
+     },
+     {
+      "name": "McKenna Morgan",
+      "bio": null
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/Blog/11949506615",
+    "handle": "recipes",
+    "title": "Recipes",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/recipes",
+    "seo": {
+     "title": "Death Wish Coffee Recipes",
+     "description": "Find how-to instructions for our favorite recipes that include coffee as a main ingredient. From drinks and brew guides to sauces and meat rubs, there are tons of recipes you can make with coffee."
+    },
+    "authors": [
+     {
+      "name": "Emily Barken",
+      "bio": null
+     },
+     {
+      "name": "McKenna Morgan",
+      "bio": null
+     },
+     {
+      "name": "530medialab Collaborator",
+      "bio": null
+     },
+     {
+      "name": "Austin Trainor",
+      "bio": null
+     },
+     {
+      "name": "DTC Admin",
+      "bio": ""
+     },
+     {
+      "name": "Jeff Ayers",
+      "bio": ""
+     }
+    ]
+   },
+   {
+    "id": "gid://shopify/Blog/77171359799",
+    "handle": "lifestyle",
+    "title": "Lifestyle",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/lifestyle",
+    "seo": {
+     "title": null,
+     "description": "It's more than just a pick-me-up. Pull back the curtain for a glimpse into how coffee can impact more than just your mood including life hacks, how-to's and answers to some of our most frequently asked questions."
+    },
+    "authors": [
+     {
+      "name": "Austin Trainor",
+      "bio": null
+     },
+     {
+      "name": "Jeff Ayers",
+      "bio": ""
+     },
+     {
+      "name": "DTC Admin",
+      "bio": ""
+     },
+     {
+      "name": "McKenna Morgan",
+      "bio": null
+     },
+     {
+      "name": "Death Wish Coffee",
+      "bio": null
+     }
+    ]
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

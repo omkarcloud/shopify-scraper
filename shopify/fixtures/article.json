@@ -1,0 +1,75 @@
+{
+ "blog": {
+  "id": "gid://shopify/Blog/3080513",
+  "handle": "news",
+  "title": "Death Wish Coffee Blog",
+  "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news",
+  "articleByHandle": {
+   "id": "gid://shopify/Article/16359541",
+   "handle": "how-to-use-an-aeropress",
+   "title": "How to Use an Aeropress",
+   "excerpt": "",
+   "publishedAt": "2024-01-03T21:38:12Z",
+   "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news/how-to-use-an-aeropress",
+   "tags": [
+    "Coffee Knowledge"
+   ],
+   "summary": "Using an AeroPress The AeroPress coffee maker is a coffee press that brews coffee under ideal conditions: proper temperature, total immersion and rapid filtering. This method results in amazingly delicious coffee with a wide range of beautiful flavors and very low acidity but without bitterness. Since its introduction in 2004, the AeroPress has become a much beloved brewer for serious coffee lo...",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0271/7209/articles/ben-moreland-aeropress-unsplash_a5d08912-e3e1-4c47-9442-44bae35614f8.jpg?v=1738003175",
+    "altText": "Brewing coffee using an aeropress.",
+    "width": 1440,
+    "height": 800
+   },
+   "authorV2": {
+    "name": "Teah Teriele",
+    "bio": null
+   },
+   "blog": {
+    "id": "gid://shopify/Blog/3080513",
+    "handle": "news",
+    "title": "Death Wish Coffee Blog",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news"
+   },
+   "seo": {
+    "title": null,
+    "description": "The AeroPress coffee maker is a new kind of coffee press that brews coffee under ideal conditions: proper temperature, total immersion, and rapid filtering. This results in..."
+   },
+   "content": "Using an AeroPress The AeroPress coffee maker is a coffee press that brews coffee under ideal conditions: proper temperature, total immersion and rapid filtering. This method results in amazingly delicious coffee with a wide range of beautiful flavors and very low acidity but without bitterness. Since its introduction in 2004, the AeroPress has become a much beloved brewer for serious coffee lovers and coffee professionals around the world. The AeroPress coffee maker is most commonly used in the home kitchen, but it is lightweight, compact and durable, which makes it ideal for use when camping, backpacking, boating or just traveling. The AeroPress is available with a zippered nylon tote bag that makes it easy to travel with the coffee maker and a bag of coffee. Packs of 350 replacement filters can be purchased from many retailers that carry the AeroPress. Rapid, total immersion brewing process makes delicious full-flavored coffee without bitterness Makes 1 to 3 cups per pressing in about one minute Brews regular American-style coffee Brews espresso-style coffee for use in lattes and other espresso-based drinks Microfilter means no grit in your cup (unlike a French press) Clean up takes just seconds Available with zippered nylon tote bag—great for travel Bisphenol-A (BPA) and phthalate free Made in the U.S.A. Using It Is Easy: 1. Grind 15 grams to a fine setting. 2. Put together the press and place with the skinny tube on the bottom. 3. Put the cone on and add coffee. 4. Fill ",
+   "contentHtml": "<div>\n<h2>Using an AeroPress </h2>\n<p>The AeroPress coffee maker is a coffee press that brews coffee under ideal conditions: proper temperature, total immersion and rapid filtering. This method results in <a href=\"https://www.deathwishcoffee.com/collections/coffee\">amazingly delicious coffee</a> with a wide range of beautiful flavors and very low acidity but without bitterness. Since its introduction in 2004, the AeroPress has become a much beloved brewer for serious coffee lovers and coffee professionals around the world.</p>\n<p>The AeroPress coffee maker is most commonly used in the home kitchen, but it is lightweight, compact and durable, which makes it ideal for use when camping, backpacking, boating or just traveling. The <a href=\"https://aeropress.com/\">AeroPress</a> is available with a zippered nylon tote bag that makes it easy to travel with the coffee maker and a bag of coffee. Packs of 350 replacement filters can be purchased from many retailers that carry the AeroPress.</p>\n</div>\n<ul class=\"features\">\n<li>Rapid, total immersion brewing process makes delicious full-flavored coffee without bitterness</li>\n<li>Makes 1 to 3 cups per pressing in about one minute</li>\n<li>Brews regular American-style coffee</li>\n<li>Brews espresso-style coffee for use in lattes and other <a href=\"https://www.deathwishcoffee.com/collections/espresso-roast\">espresso</a>-based drinks</li>\n<li>Microfilter means no grit in your cup (unlike a <a href=\"https://www.deathwishcoffee.com/products/the-press-french-press\">French press</a>)</li>\n<li>Clean up takes just seconds</li>\n<li>Available with zippered nylon tote bag<span>—</span>great for travel</li>\n<li>Bisphenol-A (BPA) and phthalate free</li>\n<li>Made in the U.S.A.</li>\n</ul>\n<h2>Using It Is Easy:</h2>\n<p>1. Grind 15 grams to a fine setting.</p>\n<p>2. Put together the press and place with the skinny tube on the bottom.</p>\n<p>3. Put the cone on and add coffee.</p>\n<p>4. Fill with 30 grams, 200 F water and stir. Wait 30 seconds.</p>\n<p>5. Fill the remainder with water (about 160 grams).</p>\n<p>6. Place the AeroPress cap onto your cup, add the filter and pour with about 100 grams of water. This does two things: rinses the filter for use with the AeroPress and prepares for the dilution of the coffee later on.</p>\n<p>7. Screw the lid onto the AeroPress and (swiftly) turn it upside down onto your cup.</p>\n<p>8. Press the top down until you hear a hissing sound. Your coffee is ready!</p>\n<p>Discard your puck into the trash by",
+   "excerptHtml": "<img src=\"//cdn.shopify.com/s/files/1/0271/7209/files/ap.jpg?1760442362710257919\" alt=\"\">",
+   "comments": {
+    "nodes": [
+     {
+      "id": "gid://shopify/Comment/2340409725",
+      "content": "Hi Teah, You don’t mention the temperature of the water in your instructions. Do you use a precise temperature? I have a teapot that whistles loudly when ready…I’ll have to check the temp. of the water at that point since I’m not really in “Science Mode” until after that first cup…or three.",
+      "contentHtml": "<p>Hi Teah,<br />\nYou don&#8217;t mention the temperature of the water in your instructions. Do you use a precise temperature? I have a teapot that whistles loudly when ready&#8230;I&#8217;ll have to check the temp. of the water at that point since I&#8217;m not really in &#8220;Science Mode&#8221; until after that first cup&#8230;or three.</p>",
+      "author": {
+       "name": "Don"
+      }
+     },
+     {
+      "id": "gid://shopify/Comment/2340507629",
+      "content": "Oops! Don, I always recommend 200 degrees. That is right under boiling. I use a BonaVita Temp variable goose neck, but anything that will get the water hot will work if you have a thermometer. I will add it to the tutorial. Thanks for the input!",
+      "contentHtml": "<p>Oops! Don, I always recommend 200 degrees. That is right under boiling. I use a BonaVita Temp variable goose neck, but anything that will get the water hot will work if you have a thermometer. I will add it to the tutorial. Thanks for the input!</p>",
+      "author": {
+       "name": "Teah"
+      }
+     },
+     {
+      "id": "gid://shopify/Comment/2341418957",
+      "content": "how many oz / mL is 160 or 100 grams of water?",
+      "contentHtml": "<p>how many oz / mL is 160 or 100  grams of water?</p>",
+      "author": {
+       "name": "Fe Butte"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

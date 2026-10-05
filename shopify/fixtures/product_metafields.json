@@ -1,0 +1,31 @@
+{
+ "nodes": [
+  {
+   "id": "gid://shopify/Product/1878193471557",
+   "rating": {
+    "value": "{\"scale_min\":\"1.0\",\"scale_max\":\"5.0\",\"value\":\"4.6\"}"
+   },
+   "ratingCount": {
+    "value": "6574"
+   }
+  },
+  {
+   "id": "gid://shopify/Product/4638145937488",
+   "rating": {
+    "value": "{\"scale_min\":\"1.0\",\"scale_max\":\"5.0\",\"value\":\"4.5\"}"
+   },
+   "ratingCount": {
+    "value": "8553"
+   }
+  },
+  {
+   "id": "gid://shopify/Product/4873015754832",
+   "rating": {
+    "value": "{\"scale_min\":\"1.0\",\"scale_max\":\"5.0\",\"value\":\"4.6\"}"
+   },
+   "ratingCount": {
+    "value": "9951"
+   }
+  }
+ ]
+}

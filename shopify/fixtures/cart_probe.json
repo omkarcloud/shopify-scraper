@@ -1,0 +1,90 @@
+{
+ "cartCreate": {
+  "cart": {
+   "lines": {
+    "nodes": [
+     {
+      "quantity": 0,
+      "merchandise": {
+       "id": "gid://shopify/ProductVariant/31243626741840"
+      }
+     },
+     {
+      "quantity": 51,
+      "merchandise": {
+       "id": "gid://shopify/ProductVariant/31223893393488"
+      }
+     },
+     {
+      "quantity": 0,
+      "merchandise": {
+       "id": "gid://shopify/ProductVariant/30750381375568"
+      }
+     },
+     {
+      "quantity": 99,
+      "merchandise": {
+       "id": "gid://shopify/ProductVariant/30674264817744"
+      }
+     },
+     {
+      "quantity": 257,
+      "merchandise": {
+       "id": "gid://shopify/ProductVariant/30674260033616"
+      }
+     },
+     {
+      "quantity": 77,
+      "merchandise": {
+       "id": "gid://shopify/ProductVariant/31330825109584"
+      }
+     },
+     {
+      "quantity": 0,
+      "merchandise": {
+       "id": "gid://shopify/ProductVariant/31338073981072"
+      }
+     }
+    ]
+   }
+  },
+  "userErrors": [],
+  "warnings": [
+   {
+    "code": "MERCHANDISE_OUT_OF_STOCK",
+    "message": "The product 'Men's Wool Runner - Natural Grey (Light Grey Sole) - 14' is already sold out.",
+    "target": "gid://shopify/CartLine/56e3b7db-ea1b-443f-8ce5-d86f21e506d9?cart=hWNHcEoEVXSpdFs7NTDxchNc"
+   },
+   {
+    "code": "MERCHANDISE_NOT_ENOUGH_STOCK",
+    "message": "Only 51 items were added to your cart due to availability.",
+    "target": "gid://shopify/CartLine/1b052026-6237-4e65-a625-bc31969d3cee?cart=hWNHcEoEVXSpdFs7NTDxchNc"
+   },
+   {
+    "code": "MERCHANDISE_OUT_OF_STOCK",
+    "message": "The product 'Men's Wool Runner - Natural Grey (Light Grey Sole) - 12' is already sold out.",
+    "target": "gid://shopify/CartLine/3fd57f55-24af-4823-ab98-33438f13736e?cart=hWNHcEoEVXSpdFs7NTDxchNc"
+   },
+   {
+    "code": "MERCHANDISE_NOT_ENOUGH_STOCK",
+    "message": "Only 99 items were added to your cart due to availability.",
+    "target": "gid://shopify/CartLine/956a831f-494a-4f99-a289-b609a1a882bb?cart=hWNHcEoEVXSpdFs7NTDxchNc"
+   },
+   {
+    "code": "MERCHANDISE_NOT_ENOUGH_STOCK",
+    "message": "Only 257 items were added to your cart due to availability.",
+    "target": "gid://shopify/CartLine/2077bd55-164c-4744-b926-05d762091a97?cart=hWNHcEoEVXSpdFs7NTDxchNc"
+   },
+   {
+    "code": "MERCHANDISE_NOT_ENOUGH_STOCK",
+    "message": "Only 77 items were added to your cart due to availability.",
+    "target": "gid://shopify/CartLine/1679a063-698f-4d38-8165-843c7c5a7a13?cart=hWNHcEoEVXSpdFs7NTDxchNc"
+   },
+   {
+    "code": "MERCHANDISE_OUT_OF_STOCK",
+    "message": "The product 'Men's Wool Runner - Natural Grey (Light Grey Sole) - 8' is already sold out.",
+    "target": "gid://shopify/CartLine/ea563b42-b174-4c86-8499-d05443973939?cart=hWNHcEoEVXSpdFs7NTDxchNc"
+   }
+  ]
+ }
+}

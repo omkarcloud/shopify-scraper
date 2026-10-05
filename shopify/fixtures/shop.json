@@ -1,0 +1,130 @@
+{
+ "shop": {
+  "id": "gid://shopify/Shop/11044168",
+  "name": "Allbirds",
+  "description": "The world’s most comfortable shoes, made with natural materials like merino wool, eucalyptus tree fiber, and sugar cane, Allbirds has created the comfiest shoes on the planet.",
+  "moneyFormat": "${{amount}}",
+  "primaryDomain": {
+   "url": "https://www.allbirds.com",
+   "host": "www.allbirds.com"
+  },
+  "brand": {
+   "slogan": null,
+   "shortDescription": null,
+   "logo": {
+    "image": {
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/allbirds.png?v=1691521584",
+     "altText": null,
+     "width": 600,
+     "height": 600
+    }
+   },
+   "squareLogo": {
+    "image": {
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/allbirds_600x600_crop_center.png?v=1691521584",
+     "altText": null,
+     "width": 600,
+     "height": 600
+    }
+   },
+   "coverImage": null,
+   "colors": {
+    "primary": [
+     {
+      "background": null,
+      "foreground": null
+     },
+     {
+      "background": null,
+      "foreground": null
+     }
+    ],
+    "secondary": [
+     {
+      "background": null,
+      "foreground": null
+     },
+     {
+      "background": null,
+      "foreground": null
+     }
+    ]
+   }
+  },
+  "paymentSettings": {
+   "currencyCode": "USD",
+   "countryCode": "US",
+   "enabledPresentmentCurrencies": [
+    "USD"
+   ],
+   "acceptedCardBrands": [
+    "VISA",
+    "MASTERCARD",
+    "AMERICAN_EXPRESS",
+    "DISCOVER",
+    "DINERS_CLUB"
+   ],
+   "supportedDigitalWallets": [
+    "SHOPIFY_PAY",
+    "APPLE_PAY",
+    "GOOGLE_PAY"
+   ]
+  },
+  "shipsToCountries": [
+   "US"
+  ],
+  "privacyPolicy": {
+   "title": "Privacy Policy",
+   "handle": "privacy-policy",
+   "url": "https://www.allbirds.com/11044168/policies/19013319.html?locale=en-US"
+  },
+  "refundPolicy": {
+   "title": "Refund Policy",
+   "handle": "refund-policy",
+   "url": "https://www.allbirds.com/11044168/policies/19013255.html?locale=en-US"
+  },
+  "shippingPolicy": null,
+  "termsOfService": {
+   "title": "Terms of Service",
+   "handle": "terms-of-service",
+   "url": "https://www.allbirds.com/11044168/policies/19013383.html?locale=en-US"
+  },
+  "subscriptionPolicy": null
+ },
+ "localization": {
+  "country": {
+   "isoCode": "US",
+   "name": "United States",
+   "unitSystem": "IMPERIAL_SYSTEM",
+   "currency": {
+    "isoCode": "USD",
+    "name": "United States Dollar",
+    "symbol": "$"
+   }
+  },
+  "language": {
+   "isoCode": "EN",
+   "name": "American English",
+   "endonymName": "American English"
+  },
+  "availableLanguages": [
+   {
+    "isoCode": "EN",
+    "name": "American English",
+    "endonymName": "American English"
+   }
+  ],
+  "availableCountries": [
+   {
+    "isoCode": "GB"
+   },
+   {
+    "isoCode": "US"
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

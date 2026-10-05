@@ -1,0 +1,80 @@
+{
+ "blog": {
+  "id": "gid://shopify/Blog/3080513",
+  "handle": "news",
+  "title": "Death Wish Coffee Blog",
+  "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news",
+  "articles": {
+   "pageInfo": {
+    "hasNextPage": true,
+    "endCursor": "eyJsYXN0X2lkIjo2MzI1MTMyNjU3MTksImxhc3RfdmFsdWUiOiIyMDI1LTA0LTE2IDE1OjM3OjQ5LjAwMDAwMCIsIm9mZnNldCI6MX0="
+   },
+   "nodes": [
+    {
+     "id": "gid://shopify/Article/633600409655",
+     "handle": "how-to-make-adaptogenic-coffee-at-home",
+     "title": "How to Make Adaptogenic Coffee at Home",
+     "excerpt": "",
+     "publishedAt": "2026-01-23T22:00:01Z",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news/how-to-make-adaptogenic-coffee-at-home",
+     "tags": [],
+     "summary": "Overwhelmed by the constant stream of “better-for-you\" bullsh*t being touted by every influencer that floods your feed? It can be hard to know what’s legit, what’s a money grab and what is straight up AI slop. Instead of forking over a bunch of cash for something you might work into your routine for a week, or playing the guessing game with what you’re putting in your body, we’re breaking down ...",
+     "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/articles/Core_Bagged_Photo_Rendering_Dark_Roast_B1_2400x1256-_1.jpg?v=1768938773",
+      "altText": null,
+      "width": 1440,
+      "height": 800
+     },
+     "authorV2": {
+      "name": "Kelly Spencer",
+      "bio": null
+     },
+     "blog": {
+      "id": "gid://shopify/Blog/3080513",
+      "handle": "news",
+      "title": "Death Wish Coffee Blog",
+      "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news"
+     },
+     "seo": {
+      "title": null,
+      "description": null
+     }
+    },
+    {
+     "id": "gid://shopify/Article/632513265719",
+     "handle": "what-is-instant-coffee",
+     "title": "What Is Instant Coffee: Everything You Need To Know",
+     "excerpt": "",
+     "publishedAt": "2025-04-16T15:37:49Z",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news/what-is-instant-coffee",
+     "tags": [],
+     "summary": "For many of you, reading the term ‘instant coffee’ just sent a shiver down your spine. In fact, you’re probably picturing a sad, bitter cup your great-uncle drank in the ‘90s. The truth is, instant coffee has come a long way, and when made correctly can be one of the boldest cups you’ve ever had. What Is Instant Coffee, Really? Instant coffee is coffee made from real coffee beans that have been...",
+     "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/articles/Screen_Shot_2025-04-16_at_11.31.23_AM.png?v=1772549239",
+      "altText": null,
+      "width": 1406,
+      "height": 1362
+     },
+     "authorV2": {
+      "name": "McKenna Morgan",
+      "bio": null
+     },
+     "blog": {
+      "id": "gid://shopify/Blog/3080513",
+      "handle": "news",
+      "title": "Death Wish Coffee Blog",
+      "onlineStoreUrl": "https://www.deathwishcoffee.com/blogs/news"
+     },
+     "seo": {
+      "title": null,
+      "description": "Everything you need to know about instant coffee—what it is, how it’s made, how to use it, and what makes a truly good cup worth sipping."
+     }
+    }
+   ]
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

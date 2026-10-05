@@ -1,0 +1,37 @@
+{
+ "shop": {
+  "privacyPolicy": {
+   "id": "gid://shopify/ShopPolicy/1003635",
+   "title": "Privacy Policy",
+   "handle": "privacy-policy",
+   "url": "https://www.deathwishcoffee.com/2717209/policies/1003635.html?locale=en-US",
+   "body": "<p>PRIVACY STATEMENT</p>\n<p>----</p>\n<p>SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?</p>\n<p>When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. <br>When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. <br>Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. <br>We will never supply any of your information to a third party.</p>\n<p>SECTION 2 - CONSENT</p>\n<p>How do you get my consent? <br>When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. <br>If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.</p>\n<p>How "
+  },
+  "refundPolicy": {
+   "id": "gid://shopify/ShopPolicy/1003631",
+   "title": "Refund Policy",
+   "handle": "refund-policy",
+   "url": "https://www.deathwishcoffee.com/2717209/policies/1003631.html?locale=en-US",
+   "body": "<p>If you are not satisfied with our products for any reason please reach out to hey@deathwishcoffee.com via email. We will gladly fix what ever issue you have or refund you for your purchase.</p>\n<p>60 day money back guarantee, no questions asked if this is not the boldest brew you've ever had.</p>"
+  },
+  "shippingPolicy": null,
+  "termsOfService": {
+   "id": "gid://shopify/ShopPolicy/1003633",
+   "title": "Terms of Service",
+   "handle": "terms-of-service",
+   "url": "https://www.deathwishcoffee.com/2717209/policies/1003633.html?locale=en-US",
+   "body": "<p>TERMS OF SERVICE</p>\n<p>-----</p>\n<p>OVERVIEW</p>\n<p>This website is operated by Death Wish Coffee Company. Throughout the site, the terms “we”, “us” and “our” refer to Death Wish Coffee Company. Death Wish Coffee Company offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.</p>\n<p>By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.</p>\n<p>Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any ser"
+  },
+  "subscriptionPolicy": {
+   "id": null,
+   "title": "Purchase Options Cancellation Policy",
+   "handle": "subscription-policy",
+   "url": "https://www.deathwishcoffee.com/2717209/policies/subscription-policy.html?locale=en-US",
+   "body": "<strong>Cancellation Policy</strong> <br /> Some items in our store may be offered to you as a subscription, a pre-order or try before you buy. This cancellation policy lays out how you can change or cancel these kinds of purchases. <br /> <strong>Subscriptions</strong> <br /> When you purchase a subscription you'll receive repeat deliveries. These are based on the subscription duration and frequency that you select. <br /> Your payment details will be stored securely and you'll be charged for each of these deliveries, unless you choose to pay in advance. <br /> Some subscriptions may auto-renew at the end of their duration. If you don't want to renew a subscription you can cancel it. <br /> If you want to cancel or change your subscription, you can do it at any time. Your order confirmation emails have links to your order. You can manage your subscription from there. <br /> See our returns policy for more details on returns and refunds. <br /> <strong>Pre-orders</strong> <br /> When you purchase a pre-order, you are buying an out-of-stock or soon-to-be-available product not yet in inventory. We may collect no payment or a partial deposit at checkout, store your payment method, the"
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

@@ -1,0 +1,761 @@
+{
+ "product": {
+  "id": "gid://shopify/Product/1878193471557",
+  "handle": "mens-wool-runners",
+  "title": "Men's Wool Runner - Natural Grey (Light Grey Sole)",
+  "vendor": "Allbirds",
+  "productType": "Shoes",
+  "description": "The Allbirds Wool Runner is the orginal wool sneaker that started it all. Called the world's most comfortable shoe, it's flexible, supportive, astonishingly soft, and machine washable. The Wool Runner is breathable, lightweight, and can be worn sockless. Best used for walking, cooler weather, and everyday casual wear.",
+  "availableForSale": true,
+  "isGiftCard": false,
+  "requiresSellingPlan": false,
+  "createdAt": "2018-11-12T22:25:43Z",
+  "updatedAt": "2026-10-05T05:13:46Z",
+  "publishedAt": "2026-09-25T23:06:01Z",
+  "tags": [
+   "allbirds::carbon-score => 7.07",
+   "allbirds::cfId => color-mens-wool-runners",
+   "allbirds::complete => true",
+   "allbirds::edition => classic",
+   "allbirds::gender => mens",
+   "allbirds::hue => grey",
+   "allbirds::master => mens-wool-runners",
+   "allbirds::material => wool",
+   "allbirds::price-tier => msrp",
+   "allbirds::silhouette => runner",
+   "allbirdskit::kit-discount-3ct4WFypIJAqgLRmxHMOf5 => 9",
+   "allbirdskit::kit-id => 3ct4WFypIJAqgLRmxHMOf5",
+   "allbirdskit::kit-size-3ct4WFypIJAqgLRmxHMOf5 => 2",
+   "loop::returnable => true",
+   "OOS DNS",
+   "shoprunner",
+   "Wave#4 WC-(TRAILERS 09-011)",
+   "WC WAVE 1 TRUCK #1-#16 7.30.2026",
+   "YCRF_mens-move-shoes",
+   "YGroup_ygroup_mens-wool-runners"
+  ],
+  "onlineStoreUrl": "https://www.allbirds.com/products/mens-wool-runners",
+  "featuredImage": {
+   "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+   "altText": null,
+   "width": 1600,
+   "height": 1600
+  },
+  "priceRange": {
+   "minVariantPrice": {
+    "amount": "110.0",
+    "currencyCode": "USD"
+   },
+   "maxVariantPrice": {
+    "amount": "110.0",
+    "currencyCode": "USD"
+   }
+  },
+  "compareAtPriceRange": {
+   "minVariantPrice": {
+    "amount": "0.0",
+    "currencyCode": "USD"
+   },
+   "maxVariantPrice": {
+    "amount": "0.0",
+    "currencyCode": "USD"
+   }
+  },
+  "options": [
+   {
+    "name": "Size",
+    "optionValues": [
+     {
+      "name": "8",
+      "id": "gid://shopify/ProductOptionValue/1517027408",
+      "swatch": null
+     },
+     {
+      "name": "9",
+      "id": "gid://shopify/ProductOptionValue/1517060176",
+      "swatch": null
+     },
+     {
+      "name": "10",
+      "id": "gid://shopify/ProductOptionValue/1517092944",
+      "swatch": null
+     },
+     {
+      "name": "11",
+      "id": "gid://shopify/ProductOptionValue/1517125712",
+      "swatch": null
+     },
+     {
+      "name": "12",
+      "id": "gid://shopify/ProductOptionValue/1517158480",
+      "swatch": null
+     },
+     {
+      "name": "13",
+      "id": "gid://shopify/ProductOptionValue/1517191248",
+      "swatch": null
+     },
+     {
+      "name": "14",
+      "id": "gid://shopify/ProductOptionValue/1517224016",
+      "swatch": null
+     }
+    ],
+    "id": "gid://shopify/ProductOption/2658112274501"
+   }
+  ],
+  "category": {
+   "id": "gid://shopify/TaxonomyCategory/aa-8",
+   "name": "Shoes",
+   "ancestors": [
+    {
+     "id": "gid://shopify/TaxonomyCategory/aa",
+     "name": "Apparel & Accessories"
+    }
+   ]
+  },
+  "variantsCount": {
+   "count": 7
+  },
+  "descriptionHtml": "<p>The Allbirds Wool Runner is the orginal wool sneaker that started it all. Called the world's most comfortable shoe, it's flexible, supportive, astonishingly soft, and machine washable. The Wool Runner is breathable, lightweight, and can be worn sockless. Best used for walking, cooler weather, and everyday casual wear.</p>",
+  "fullDescription": "The Allbirds Wool Runner is the orginal wool sneaker that started it all. Called the world's most comfortable shoe, it's flexible, supportive, astonishingly soft, and machine washable. The Wool Runner is breathable, lightweight, and can be worn sockless. Best used for walking, cooler weather, and everyday casual wear.",
+  "seo": {
+   "title": null,
+   "description": null
+  },
+  "images": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductImage/34288178462800",
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "id": "gid://shopify/ProductImage/34288178528336",
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_HEL.png?v=1751143404",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "id": "gid://shopify/ProductImage/34288178495568",
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_TOP.png?v=1751143404",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "id": "gid://shopify/ProductImage/34288178561104",
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_OUT.png?v=1751143404",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    }
+   ]
+  },
+  "media": {
+   "nodes": [
+    {
+     "id": "gid://shopify/MediaImage/25920082772048",
+     "mediaContentType": "IMAGE",
+     "alt": "",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": "",
+      "width": 1600,
+      "height": 1600
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/25920082804816",
+     "mediaContentType": "IMAGE",
+     "alt": "",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_HEL.png?v=1751143404",
+      "altText": "",
+      "width": 1600,
+      "height": 1600
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/25920082837584",
+     "mediaContentType": "IMAGE",
+     "alt": "",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_TOP.png?v=1751143404",
+      "altText": "",
+      "width": 1600,
+      "height": 1600
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/25920082870352",
+     "mediaContentType": "IMAGE",
+     "alt": "",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_OUT.png?v=1751143404",
+      "altText": "",
+      "width": 1600,
+      "height": 1600
+     }
+    }
+   ]
+  },
+  "collections": {
+   "nodes": [
+    {
+     "id": "gid://shopify/Collection/423410055",
+     "handle": "shoes",
+     "title": "Shoes",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/88215814213",
+     "handle": "mens-wool-runners",
+     "title": "Men's Wool Runner",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-wool-runners"
+    },
+    {
+     "id": "gid://shopify/Collection/88842403909",
+     "handle": "mens-wool-runners-loop",
+     "title": "Men's Wool Runners - Loop",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-wool-runners-loop"
+    },
+    {
+     "id": "gid://shopify/Collection/132815978576",
+     "handle": "mens",
+     "title": "Men's Shoes",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens"
+    },
+    {
+     "id": "gid://shopify/Collection/156337701008",
+     "handle": "bulk-ordering",
+     "title": "Bulk Ordering",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/bulk-ordering"
+    },
+    {
+     "id": "gid://shopify/Collection/169118236752",
+     "handle": "gifts-for-him-2020",
+     "title": "Gifts For Him",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/gifts-for-him-2020"
+    },
+    {
+     "id": "gid://shopify/Collection/170168516688",
+     "handle": "all-shoes-mens-and-womens",
+     "title": "All Shoes - Men's and Women's",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/all-shoes-mens-and-womens"
+    },
+    {
+     "id": "gid://shopify/Collection/261569413200",
+     "handle": "best-for-cold-weather-mens",
+     "title": "The Cold Weather Shop",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/best-for-cold-weather-mens"
+    },
+    {
+     "id": "gid://shopify/Collection/262753747024",
+     "handle": "birthday-wool-runner",
+     "title": "Happy Birthday Wool Runner!",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/birthday-wool-runner"
+    },
+    {
+     "id": "gid://shopify/Collection/262762725456",
+     "handle": "mens-allbirds-110-shoes-loop",
+     "title": "Men's Allbirds $110 (Shoes) - Loop",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-allbirds-110-shoes-loop"
+    },
+    {
+     "id": "gid://shopify/Collection/262779961424",
+     "handle": "washable-shoes",
+     "title": "Wash ‘N Go",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/washable-shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/262779994192",
+     "handle": "mens-washable-shoes",
+     "title": "Wash ‘N Go",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-washable-shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/263274987600",
+     "handle": "mens-originals",
+     "title": "The Fan Favorite",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-originals"
+    },
+    {
+     "id": "gid://shopify/Collection/263759528016",
+     "handle": "sale-mens-shoes",
+     "title": "Men's Sale Shoes",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/sale-mens-shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/263860093008",
+     "handle": "discount-eligible-products-excluding-markdown-products",
+     "title": "Discount Eligible Products Excluding Markdown Products",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/discount-eligible-products-excluding-markdown-products"
+    },
+    {
+     "id": "gid://shopify/Collection/265236086864",
+     "handle": "bogo15-collection-q3-2023",
+     "title": "BOGO15 Collection Q3 2023",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/bogo15-collection-q3-2023"
+    },
+    {
+     "id": "gid://shopify/Collection/265833971792",
+     "handle": "gifts-for-men-jp",
+     "title": "Gifts For Him",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/gifts-for-men-jp"
+    },
+    {
+     "id": "gid://shopify/Collection/266221912144",
+     "handle": "all-full-price-shoes",
+     "title": "All Full Price Shoes",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/all-full-price-shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/266248323152",
+     "handle": "mens-wool-runners-shop-now",
+     "title": "Men's Wool Runners - Shop Now",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-wool-runners-shop-now"
+    },
+    {
+     "id": "gid://shopify/Collection/267144003664",
+     "handle": "aff-secret-sale-mkd",
+     "title": "AFF Secret Sale 30% Off",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/aff-secret-sale-mkd"
+    },
+    {
+     "id": "gid://shopify/Collection/267423875152",
+     "handle": "discount-eligible-products-including-markdown-products-excluding-final-sale",
+     "title": "Discount Eligible Products Including Markdown Products Excluding Final Sale",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/discount-eligible-products-including-markdown-products-excluding-final-sale"
+    },
+    {
+     "id": "gid://shopify/Collection/268754485328",
+     "handle": "spring30-collection",
+     "title": "SPRING30 Collection",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/spring30-collection"
+    },
+    {
+     "id": "gid://shopify/Collection/269043564624",
+     "handle": "discount-eligible-products-excluding-markdown-final-sale-products",
+     "title": "Discount Eligible Products Excluding TR Go/Gift Cards/Markdown/Final Sale Products For CNN Deal",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/discount-eligible-products-excluding-markdown-final-sale-products"
+    },
+    {
+     "id": "gid://shopify/Collection/269127516240",
+     "handle": "grey-shoes",
+     "title": "Grey Shoes",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/grey-shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/269130465360",
+     "handle": "community-favorites",
+     "title": "Community Favorites",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/community-favorites"
+    },
+    {
+     "id": "gid://shopify/Collection/270047674448",
+     "handle": "summer-sale-2024-all-products-excluding-tree-runner",
+     "title": "Summer Sale 2024 All Products Excluding Tree Runner",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/summer-sale-2024-all-products-excluding-tree-runner"
+    },
+    {
+     "id": "gid://shopify/Collection/270047739984",
+     "handle": "summer-sale-2024-all-products",
+     "title": "Summer Sale 2024  All Products",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/summer-sale-2024-all-products"
+    },
+    {
+     "id": "gid://shopify/Collection/271513911376",
+     "handle": "all-msrp-products",
+     "title": "All MSRP Products",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/all-msrp-products"
+    },
+    {
+     "id": "gid://shopify/Collection/272540139600",
+     "handle": "t-mobile-tuesdays-discount",
+     "title": "T-Mobile Tuesdays Discount",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/t-mobile-tuesdays-discount"
+    },
+    {
+     "id": "gid://shopify/Collection/272863101008",
+     "handle": "mens-final-sale-shoes",
+     "title": "Men's Final Sale Shoes",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-final-sale-shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/273039523920",
+     "handle": "community-favorites-everyday-shoes",
+     "title": "Community Favorites",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/community-favorites-everyday-shoes"
+    },
+    {
+     "id": "gid://shopify/Collection/273184391248",
+     "handle": "mens-travel-essentials",
+     "title": "Men's Travel Essentials",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-travel-essentials"
+    },
+    {
+     "id": "gid://shopify/Collection/273986519120",
+     "handle": "mens-sneakers",
+     "title": "Men's Sneakers",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/mens-sneakers"
+    },
+    {
+     "id": "gid://shopify/Collection/274245779536",
+     "handle": "core-product-for-corporate-discounts",
+     "title": "Core Product for Corporate Discounts",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/core-product-for-corporate-discounts"
+    },
+    {
+     "id": "gid://shopify/Collection/274499174480",
+     "handle": "sale-mens",
+     "title": "Men's Sale",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/sale-mens"
+    },
+    {
+     "id": "gid://shopify/Collection/275072581712",
+     "handle": "all-shoes-search",
+     "title": "All Shoes - Search",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/all-shoes-search"
+    },
+    {
+     "id": "gid://shopify/Collection/275782533200",
+     "handle": "october-25-sale",
+     "title": "October 25 Sale",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/october-25-sale"
+    },
+    {
+     "id": "gid://shopify/Collection/278656450640",
+     "handle": "shop-all-26",
+     "title": "SHOP ALL '26",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/shop-all-26"
+    },
+    {
+     "id": "gid://shopify/Collection/279444029520",
+     "handle": "all-products-1",
+     "title": "All Products",
+     "onlineStoreUrl": "https://www.allbirds.com/collections/all-products-1"
+    }
+   ]
+  },
+  "sellingPlanGroups": {
+   "nodes": []
+  },
+  "variants": {
+   "pageInfo": {
+    "hasNextPage": false,
+    "endCursor": "eyJsYXN0X2lkIjozMTI0MzYyNjc0MTg0MCwibGFzdF92YWx1ZSI6Nywib2Zmc2V0Ijo2fQ=="
+   },
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/31338073981072",
+     "title": "8",
+     "sku": "WR3MNCW080",
+     "barcode": "843416126274",
+     "availableForSale": false,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 1.872,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "8"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/34288178462800",
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": null,
+      "width": 1600,
+      "height": 1600
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/31330825109584",
+     "title": "9",
+     "sku": "WR3MNCW090",
+     "barcode": "843416126281",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.086,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "9"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/34288178462800",
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": null,
+      "width": 1600,
+      "height": 1600
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/30674260033616",
+     "title": "10",
+     "sku": "WR3MNCW100",
+     "barcode": "843416126298",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.119,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "10"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/34288178462800",
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": null,
+      "width": 1600,
+      "height": 1600
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/30674264817744",
+     "title": "11",
+     "sku": "WR3MNCW110",
+     "barcode": "843416126304",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.178,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "11"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/34288178462800",
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": null,
+      "width": 1600,
+      "height": 1600
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/30750381375568",
+     "title": "12",
+     "sku": "WR3MNCW120",
+     "barcode": "843416126311",
+     "availableForSale": false,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.293,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "12"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/34288178462800",
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": null,
+      "width": 1600,
+      "height": 1600
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/31223893393488",
+     "title": "13",
+     "sku": "WR3MNCW130",
+     "barcode": "843416126328",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.359,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "13"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/34288178462800",
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": null,
+      "width": 1600,
+      "height": 1600
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/31243626741840",
+     "title": "14",
+     "sku": "WR3MNCW140",
+     "barcode": "843416126335",
+     "availableForSale": false,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.568,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "14"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/34288178462800",
+      "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+      "altText": null,
+      "width": 1600,
+      "height": 1600
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    }
+   ]
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

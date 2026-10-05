@@ -1,0 +1,326 @@
+{
+ "products": {
+  "pageInfo": {
+   "hasNextPage": true,
+   "endCursor": "eyJsYXN0X2lkIjo0ODczMDE1NzU0ODMyLCJsYXN0X3ZhbHVlIjoxNDEwNDAsIm9mZnNldCI6Mn0="
+  },
+  "nodes": [
+   {
+    "id": "gid://shopify/Product/1878193471557",
+    "handle": "mens-wool-runners",
+    "title": "Men's Wool Runner - Natural Grey (Light Grey Sole)",
+    "vendor": "Allbirds",
+    "productType": "Shoes",
+    "description": "The Allbirds Wool Runner is the orginal wool sneaker that started it all. Called the world's most comfortable shoe, it's flexible, supportive, astonishingly soft, and machine washable. The Wool Runner is breathable, lightweight, and can be worn sockless. Best used for walking, cooler weather, and everyday casual wear.",
+    "availableForSale": true,
+    "isGiftCard": false,
+    "requiresSellingPlan": false,
+    "createdAt": "2018-11-12T22:25:43Z",
+    "updatedAt": "2026-10-05T05:13:46Z",
+    "publishedAt": "2026-09-25T23:06:01Z",
+    "tags": [
+     "allbirds::carbon-score => 7.07",
+     "allbirds::cfId => color-mens-wool-runners",
+     "allbirds::complete => true",
+     "allbirds::edition => classic",
+     "allbirds::gender => mens",
+     "allbirds::hue => grey",
+     "allbirds::master => mens-wool-runners",
+     "allbirds::material => wool",
+     "allbirds::price-tier => msrp",
+     "allbirds::silhouette => runner",
+     "allbirdskit::kit-discount-3ct4WFypIJAqgLRmxHMOf5 => 9",
+     "allbirdskit::kit-id => 3ct4WFypIJAqgLRmxHMOf5",
+     "allbirdskit::kit-size-3ct4WFypIJAqgLRmxHMOf5 => 2",
+     "loop::returnable => true",
+     "OOS DNS",
+     "shoprunner",
+     "Wave#4 WC-(TRAILERS 09-011)",
+     "WC WAVE 1 TRUCK #1-#16 7.30.2026",
+     "YCRF_mens-move-shoes",
+     "YGroup_ygroup_mens-wool-runners"
+    ],
+    "onlineStoreUrl": "https://www.allbirds.com/products/mens-wool-runners",
+    "featuredImage": {
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/Allbirds_WL_RN_SF_PDP_Natural_Grey_LAT.png?v=1751143404",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    },
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "110.0",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    },
+    "options": [
+     {
+      "name": "Size",
+      "optionValues": [
+       {
+        "name": "8"
+       },
+       {
+        "name": "9"
+       },
+       {
+        "name": "10"
+       },
+       {
+        "name": "11"
+       },
+       {
+        "name": "12"
+       },
+       {
+        "name": "13"
+       },
+       {
+        "name": "14"
+       }
+      ]
+     }
+    ],
+    "category": {
+     "id": "gid://shopify/TaxonomyCategory/aa-8",
+     "name": "Shoes"
+    },
+    "variantsCount": {
+     "count": 7
+    }
+   },
+   {
+    "id": "gid://shopify/Product/4638145937488",
+    "handle": "womens-tree-breezers-jet-black",
+    "title": "Women's Tree Breezer - Jet Black (Black Sole)",
+    "vendor": "Allbirds",
+    "productType": "Shoes",
+    "description": "Crafted with silky-smooth, breathable eucalyptus tree fiber and a secure fitted collar, the Tree Breezer is a versatile, lightweight, and comfortable ballet flat with no break-in necessary.",
+    "availableForSale": true,
+    "isGiftCard": false,
+    "requiresSellingPlan": false,
+    "createdAt": "2020-05-28T19:52:58Z",
+    "updatedAt": "2026-10-04T20:37:00Z",
+    "publishedAt": "2026-09-25T22:55:07Z",
+    "tags": [
+     "allbirds::carbon-score => 2.7",
+     "allbirds::cfId => color-womens-tree-breezers-jet-black",
+     "allbirds::complete => true",
+     "allbirds::edition => classic",
+     "allbirds::gender => womens",
+     "allbirds::hue => black",
+     "allbirds::master => womens-tree-breezers",
+     "allbirds::material => tree",
+     "allbirds::price-tier => msrp",
+     "allbirds::silhouette => breezer",
+     "loop::returnable => true",
+     "OOS DNS",
+     "shoprunner",
+     "Wave#2 WC",
+     "Wave#4 WC-(TRAILERS 09-011)",
+     "WC WAVE 1 TRUCK #1-#16 7.30.2026",
+     "YCRF_womens-move-shoes-half-sizes",
+     "YGroup_ygroup_womens-tree-breezers"
+    ],
+    "onlineStoreUrl": "https://www.allbirds.com/products/womens-tree-breezers-jet-black",
+    "featuredImage": {
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/TB1WJBK_SHOE_LEFT_GLOBAL_WOMENS_TREE_BREEZER_JET_BLACK_BLACK.png?v=1751060487",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    },
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "105.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "105.0",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    },
+    "options": [
+     {
+      "name": "Size",
+      "optionValues": [
+       {
+        "name": "5"
+       },
+       {
+        "name": "5.5"
+       },
+       {
+        "name": "6"
+       },
+       {
+        "name": "6.5"
+       },
+       {
+        "name": "7"
+       },
+       {
+        "name": "7.5"
+       },
+       {
+        "name": "8"
+       },
+       {
+        "name": "8.5"
+       },
+       {
+        "name": "9"
+       },
+       {
+        "name": "9.5"
+       },
+       {
+        "name": "10"
+       },
+       {
+        "name": "10.5"
+       },
+       {
+        "name": "11"
+       }
+      ]
+     }
+    ],
+    "category": {
+     "id": "gid://shopify/TaxonomyCategory/aa-8-9",
+     "name": "Flats"
+    },
+    "variantsCount": {
+     "count": 13
+    }
+   },
+   {
+    "id": "gid://shopify/Product/4873015754832",
+    "handle": "mens-tree-runners-mist",
+    "title": "Men's Tree Runner - Mist (White Sole)",
+    "vendor": "Allbirds",
+    "productType": "Shoes",
+    "description": "The Allbirds Tree Runner is a breathable and lightweight sneaker made with responsibly sourced eucalyptus tree fiber that feels silky smooth and cool on your skin. These shoes are perfect for everyday casual wear, walking, and warmer weather.",
+    "availableForSale": true,
+    "isGiftCard": false,
+    "requiresSellingPlan": false,
+    "createdAt": "2021-02-05T23:19:47Z",
+    "updatedAt": "2026-10-04T19:47:11Z",
+    "publishedAt": "2026-06-16T18:02:26Z",
+    "tags": [
+     "allbirds::carbon-score => 4.52",
+     "allbirds::cfId => color-mens-tree-runners-mist-white",
+     "allbirds::complete => true",
+     "allbirds::edition => classic",
+     "allbirds::gender => mens",
+     "allbirds::hue => grey",
+     "allbirds::master => mens-tree-runners",
+     "allbirds::material => tree",
+     "allbirds::price-tier => msrp",
+     "allbirds::silhouette => runner",
+     "allbirdskit::kit-discount-2pPynpFQ2oCKNjoEN1KjVb => 18",
+     "allbirdskit::kit-id => 2pPynpFQ2oCKNjoEN1KjVb",
+     "allbirdskit::kit-size-2pPynpFQ2oCKNjoEN1KjVb => 2",
+     "DNAM BRANDS",
+     "loop::returnable => true",
+     "SF OUTLET INVENTORY",
+     "shoprunner",
+     "Wave#3 WC",
+     "Wave#4 WC-(TRAILERS 09-011)",
+     "WC WAVE 1 TRUCK #1-#16 7.30.2026",
+     "YCRF_mens-move-shoes",
+     "YGroup_ygroup_mens-tree-runners"
+    ],
+    "onlineStoreUrl": "https://www.allbirds.com/products/mens-tree-runners-mist",
+    "featuredImage": {
+     "url": "https://cdn.shopify.com/s/files/1/1104/4168/files/TR3MMST080_SHOE_LEFT_GLOBAL_MENS_TREE_RUNNER_MIST_WHITE_9959c126-77c8-42fc-aef3-7d6093c605bf.png?v=1751166590",
+     "altText": null,
+     "width": 1600,
+     "height": 1600
+    },
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "100.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "100.0",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    },
+    "options": [
+     {
+      "name": "Size",
+      "optionValues": [
+       {
+        "name": "8"
+       },
+       {
+        "name": "9"
+       },
+       {
+        "name": "10"
+       },
+       {
+        "name": "11"
+       },
+       {
+        "name": "12"
+       },
+       {
+        "name": "13"
+       },
+       {
+        "name": "14"
+       }
+      ]
+     }
+    ],
+    "category": {
+     "id": "gid://shopify/TaxonomyCategory/aa-8",
+     "name": "Shoes"
+    },
+    "variantsCount": {
+     "count": 7
+    }
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

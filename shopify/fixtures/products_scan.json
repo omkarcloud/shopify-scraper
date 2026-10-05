@@ -1,0 +1,193 @@
+{
+ "products": {
+  "pageInfo": {
+   "hasNextPage": true,
+   "endCursor": "eyJsYXN0X2lkIjoyNzIwODE2ODUsImxhc3RfdmFsdWUiOjI3MjA4MTY4NSwib2Zmc2V0Ijo0fQ=="
+  },
+  "nodes": [
+   {
+    "id": "gid://shopify/Product/171104582",
+    "handle": "valhalla-java-single-serve-pods",
+    "vendor": "Death Wish Coffee Company",
+    "productType": "Coffee",
+    "tags": [
+     "Intro Offer",
+     "National Coffee Day",
+     "Single Serve",
+     "Subscription",
+     "Valhalla Java",
+     "Valhalla Java Odinforce Blend"
+    ],
+    "availableForSale": true,
+    "createdAt": "2013-11-04T18:44:10Z",
+    "updatedAt": "2026-10-05T06:32:37Z",
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "14.99",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "59.99",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    }
+   },
+   {
+    "id": "gid://shopify/Product/179754517",
+    "handle": "gift-card",
+    "vendor": "Death Wish Coffee Company",
+    "productType": "Gift Card",
+    "tags": [
+     "Gifting",
+     "Merch"
+    ],
+    "availableForSale": true,
+    "createdAt": "2013-11-20T14:16:52Z",
+    "updatedAt": "2026-10-02T15:29:07Z",
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "25.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "100.0",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    }
+   },
+   {
+    "id": "gid://shopify/Product/263612097",
+    "handle": "death-wish-coffee",
+    "vendor": "Death Wish Coffee Company",
+    "productType": "Coffee",
+    "tags": [
+     "Bagged",
+     "Dark",
+     "Dark Roast",
+     "Intro Offer",
+     "National Coffee Day",
+     "Subscription"
+    ],
+    "availableForSale": true,
+    "createdAt": "2014-03-12T17:27:30Z",
+    "updatedAt": "2026-10-05T07:40:58Z",
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "19.99",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "84.99",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    }
+   },
+   {
+    "id": "gid://shopify/Product/263626321",
+    "handle": "death-cups",
+    "vendor": "Death Wish Coffee Company",
+    "productType": "Coffee",
+    "tags": [
+     "Dark",
+     "Dark Roast",
+     "National Coffee Day",
+     "Single Serve",
+     "Subscription"
+    ],
+    "availableForSale": true,
+    "createdAt": "2014-03-12T17:38:10Z",
+    "updatedAt": "2026-10-05T03:52:32Z",
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "14.99",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "99.99",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    }
+   },
+   {
+    "id": "gid://shopify/Product/272081685",
+    "handle": "valhalla-java-odin-force-blend",
+    "vendor": "Death Wish Coffee Company",
+    "productType": "Coffee",
+    "tags": [
+     "Bagged",
+     "National Coffee Day",
+     "Subscription",
+     "Valhalla Java",
+     "Valhalla Java Odinforce Blend"
+    ],
+    "availableForSale": true,
+    "createdAt": "2014-03-24T17:23:08Z",
+    "updatedAt": "2026-10-05T07:51:26Z",
+    "priceRange": {
+     "minVariantPrice": {
+      "amount": "15.99",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "84.99",
+      "currencyCode": "USD"
+     }
+    },
+    "compareAtPriceRange": {
+     "minVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     },
+     "maxVariantPrice": {
+      "amount": "0.0",
+      "currencyCode": "USD"
+     }
+    }
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "collection": {
+  "id": "gid://shopify/Collection/132815978576",
+  "handle": "mens",
+  "title": "Men's Shoes",
+  "description": "Sustainable, supportive, and wildly comfortable, our sneakers are always ready when you are.",
+  "descriptionHtml": "<p>Sustainable, supportive, and wildly comfortable, our sneakers are always ready when you are. </p>",
+  "updatedAt": "2026-10-04T11:02:28Z",
+  "onlineStoreUrl": "https://www.allbirds.com/collections/mens",
+  "image": null,
+  "seo": {
+   "title": "Allbirds Men's Shoes | Shop Sustainable Footwear for Men",
+   "description": "Made with sustainable, natural materials, Allbirds are shoes you will feel good in, and good about. Shop sustainable men's shoes in Tree or Wool."
+  },
+  "products": {
+   "filters": [
+    {
+     "id": "filter.p.m.allbirds_v2.category_sizes",
+     "label": "Size",
+     "type": "LIST",
+     "values": [
+      {
+       "id": "filter.p.m.allbirds_v2.category_sizes.8",
+       "label": "8",
+       "count": 243,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"8\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_sizes.8-5",
+       "label": "8.5",
+       "count": 203,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"8.5\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_sizes.9",
+       "label": "9",
+       "count": 243,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"9\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_sizes.9-5",
+       "label": "9.5",
+       "count": 203,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_sizes\",\"value\":\"9.5\"}}"
+      }
+     ]
+    },
+    {
+     "id": "filter.p.m.allbirds_v2.category_hues",
+     "label": "Color",
+     "type": "LIST",
+     "values": [
+      {
+       "id": "filter.p.m.allbirds_v2.category_hues.black",
+       "label": "black",
+       "count": 54,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"black\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_hues.grey",
+       "label": "grey",
+       "count": 60,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"grey\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_hues.white",
+       "label": "white",
+       "count": 56,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"white\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_hues.beige",
+       "label": "beige",
+       "count": 25,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_hues\",\"value\":\"beige\"}}"
+      }
+     ]
+    },
+    {
+     "id": "filter.v.price",
+     "label": "Price",
+     "type": "PRICE_RANGE",
+     "values": [
+      {
+       "id": "filter.v.price",
+       "label": "Price",
+       "count": 0,
+       "input": "{\"price\":{\"min\":0,\"max\":160.0}}"
+      }
+     ]
+    },
+    {
+     "id": "filter.p.m.allbirds_v2.category_subtypes",
+     "label": "Product Type",
+     "type": "LIST",
+     "values": [
+      {
+       "id": "filter.p.m.allbirds_v2.category_subtypes.everyday-sneakers",
+       "label": "Everyday Sneakers",
+       "count": 195,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"Everyday Sneakers\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_subtypes.golf",
+       "label": "Golf",
+       "count": 3,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"Golf\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_subtypes.high-tops",
+       "label": "High Tops",
+       "count": 12,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"High Tops\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_subtypes.hiking-shoes",
+       "label": "Hiking Shoes",
+       "count": 21,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_subtypes\",\"value\":\"Hiking Shoes\"}}"
+      }
+     ]
+    },
+    {
+     "id": "filter.p.m.allbirds_v2.category_material",
+     "label": "Material",
+     "type": "LIST",
+     "values": [
+      {
+       "id": "filter.p.m.allbirds_v2.category_material.alternative-leather",
+       "label": "alternative-leather",
+       "count": 9,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"alternative-leather\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_material.canvas",
+       "label": "canvas",
+       "count": 18,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"canvas\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_material.corduroy",
+       "label": "corduroy",
+       "count": 3,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"corduroy\"}}"
+      },
+      {
+       "id": "filter.p.m.allbirds_v2.category_material.cotton",
+       "label": "cotton",
+       "count": 19,
+       "input": "{\"productMetafield\":{\"namespace\":\"allbirds_v2\",\"key\":\"category_material\",\"value\":\"cotton\"}}"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

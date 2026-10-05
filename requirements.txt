@@ -1,0 +1,9 @@
+bottle
+cheroot
+curl_cffi
+marshmallow
+beautifulsoup4
+lxml
+tldextract
+phonenumbers
+pytest

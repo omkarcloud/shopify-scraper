@@ -1,0 +1,129 @@
+{
+ "localization": {
+  "country": {
+   "isoCode": "US",
+   "name": "United States",
+   "unitSystem": "IMPERIAL_SYSTEM",
+   "currency": {
+    "isoCode": "USD",
+    "name": "United States Dollar",
+    "symbol": "$"
+   },
+   "market": {
+    "handle": "us"
+   }
+  },
+  "language": {
+   "isoCode": "EN",
+   "name": "English",
+   "endonymName": "English"
+  },
+  "availableLanguages": [
+   {
+    "isoCode": "EN",
+    "name": "English",
+    "endonymName": "English"
+   }
+  ],
+  "availableCountries": [
+   {
+    "isoCode": "AD",
+    "name": "Andorra",
+    "unitSystem": "METRIC_SYSTEM",
+    "currency": {
+     "isoCode": "USD",
+     "name": "United States Dollar",
+     "symbol": "$"
+    },
+    "availableLanguages": [
+     {
+      "isoCode": "EN",
+      "name": "English",
+      "endonymName": "English"
+     }
+    ],
+    "market": {
+     "handle": "international"
+    }
+   },
+   {
+    "isoCode": "AE",
+    "name": "United Arab Emirates",
+    "unitSystem": "METRIC_SYSTEM",
+    "currency": {
+     "isoCode": "USD",
+     "name": "United States Dollar",
+     "symbol": "$"
+    },
+    "availableLanguages": [
+     {
+      "isoCode": "EN",
+      "name": "English",
+      "endonymName": "English"
+     }
+    ],
+    "market": {
+     "handle": "international"
+    }
+   },
+   {
+    "isoCode": "AF",
+    "name": "Afghanistan",
+    "unitSystem": "METRIC_SYSTEM",
+    "currency": {
+     "isoCode": "USD",
+     "name": "United States Dollar",
+     "symbol": "$"
+    },
+    "availableLanguages": [
+     {
+      "isoCode": "EN",
+      "name": "English",
+      "endonymName": "English"
+     }
+    ],
+    "market": {
+     "handle": "international"
+    }
+   },
+   {
+    "isoCode": "AG",
+    "name": "Antigua & Barbuda",
+    "unitSystem": "METRIC_SYSTEM",
+    "currency": {
+     "isoCode": "USD",
+     "name": "United States Dollar",
+     "symbol": "$"
+    },
+    "availableLanguages": [
+     {
+      "isoCode": "EN",
+      "name": "English",
+      "endonymName": "English"
+     }
+    ],
+    "market": {
+     "handle": "international"
+    }
+   }
+  ]
+ },
+ "shop": {
+  "shipsToCountries": [
+   "AD",
+   "AE",
+   "AF",
+   "AG"
+  ],
+  "paymentSettings": {
+   "currencyCode": "USD",
+   "enabledPresentmentCurrencies": [
+    "USD"
+   ]
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

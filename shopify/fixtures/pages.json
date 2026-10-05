@@ -1,0 +1,53 @@
+{
+ "pages": {
+  "pageInfo": {
+   "hasNextPage": true,
+   "endCursor": "eyJsYXN0X2lkIjo5NTM5NTI1MDIzMSwibGFzdF92YWx1ZSI6IkFsbW9zdCBGcmlkYXkgeCBEZWF0aCBXaXNoIENvZmZlZSIsIm9mZnNldCI6Mn0="
+  },
+  "nodes": [
+   {
+    "id": "gid://shopify/Page/84008894519",
+    "handle": "about",
+    "title": "About Death Wish Coffee",
+    "bodySummary": "",
+    "createdAt": "2023-03-09T16:40:22Z",
+    "updatedAt": "2023-09-14T14:36:59Z",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/pages/about",
+    "seo": {
+     "title": "About Us",
+     "description": "Rebels with causes. We find fresh ways to enjoy coffee, and we foster community along the way. Disrupting the status quo interests us, so we create edgy, sarcastic content. We live to rebel against blah beans—and basic brews."
+    }
+   },
+   {
+    "id": "gid://shopify/Page/101632573495",
+    "handle": "aisle-offer",
+    "title": "Aisle x Death Wish Coffee",
+    "bodySummary": "",
+    "createdAt": "2025-11-17T17:54:03Z",
+    "updatedAt": "2026-03-18T15:13:28Z",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/pages/aisle-offer",
+    "seo": {
+     "title": null,
+     "description": "Get more bang for your buck with limited time, in-store cash back offers on your favorite Death Wish Coffee products."
+    }
+   },
+   {
+    "id": "gid://shopify/Page/95395250231",
+    "handle": "friday",
+    "title": "Almost Friday x Death Wish Coffee",
+    "bodySummary": "",
+    "createdAt": "2025-03-25T19:07:44Z",
+    "updatedAt": "2025-03-25T19:07:44Z",
+    "onlineStoreUrl": "https://www.deathwishcoffee.com/pages/friday",
+    "seo": {
+     "title": null,
+     "description": null
+    }
+   }
+  ]
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

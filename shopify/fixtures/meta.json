@@ -1,0 +1,26 @@
+{
+ "id": 11044168,
+ "name": "Allbirds",
+ "city": "Beverly Hills",
+ "province": "California",
+ "country": "US",
+ "currency": "USD",
+ "domain": "www.allbirds.com",
+ "url": "https://www.allbirds.com",
+ "myshopify_domain": "weareallbirds.myshopify.com",
+ "description": "The world’s most comfortable shoes, made with natural materials like merino wool, eucalyptus tree fiber, and sugar cane, Allbirds has created the comfiest shoes on the planet.",
+ "ships_to_countries": [
+  "US"
+ ],
+ "money_format": "${{amount}}",
+ "published_collections_count": 1346,
+ "published_products_count": 692,
+ "shopify_pay_enabled_card_brands": [
+  "visa",
+  "master",
+  "american_express",
+  "discover",
+  "diners_club"
+ ],
+ "offers_shop_pay_installments": true
+}

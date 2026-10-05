@@ -1,0 +1,1443 @@
+{
+ "product": {
+  "id": "gid://shopify/Product/263612097",
+  "handle": "death-wish-coffee",
+  "title": "Dark Roast Coffee",
+  "vendor": "Death Wish Coffee Company",
+  "productType": "Coffee",
+  "description": "DARKER ROAST FOR BOLDER DAYS. Meet the yin to your yang. While you grit your teeth through the daily grind, know this bold and delicious dark roast brew will have your back all day long. Certified Fair Trade and Organic, our balanced blend of arabica beans for smooth flavor and robusta for natural strength will kick the midday crash to the curb. Find harmony, no matter the horrors your day has ...",
+  "availableForSale": true,
+  "isGiftCard": false,
+  "requiresSellingPlan": false,
+  "createdAt": "2014-03-12T17:27:30Z",
+  "updatedAt": "2026-10-05T07:40:58Z",
+  "publishedAt": "2021-02-12T17:42:39Z",
+  "tags": [
+   "Bagged",
+   "Dark",
+   "Dark Roast",
+   "Intro Offer",
+   "National Coffee Day",
+   "Subscription"
+  ],
+  "onlineStoreUrl": "https://www.deathwishcoffee.com/products/death-wish-coffee",
+  "featuredImage": {
+   "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Ground_Angle_DTC_A4_2.jpg?v=1726752263",
+   "altText": "Death Wish Coffee - Dark Roast Ground 16oz Bag.",
+   "width": 1500,
+   "height": 1500
+  },
+  "priceRange": {
+   "minVariantPrice": {
+    "amount": "19.99",
+    "currencyCode": "USD"
+   },
+   "maxVariantPrice": {
+    "amount": "84.99",
+    "currencyCode": "USD"
+   }
+  },
+  "compareAtPriceRange": {
+   "minVariantPrice": {
+    "amount": "0.0",
+    "currencyCode": "USD"
+   },
+   "maxVariantPrice": {
+    "amount": "0.0",
+    "currencyCode": "USD"
+   }
+  },
+  "options": [
+   {
+    "name": "Type",
+    "optionValues": [
+     {
+      "name": "Ground",
+      "id": "gid://shopify/ProductOptionValue/55330930743",
+      "swatch": null
+     },
+     {
+      "name": "Whole Bean",
+      "id": "gid://shopify/ProductOptionValue/55330963511",
+      "swatch": null
+     }
+    ],
+    "id": "gid://shopify/ProductOption/313986737"
+   },
+   {
+    "name": "Size",
+    "optionValues": [
+     {
+      "name": "1 lb",
+      "id": "gid://shopify/ProductOptionValue/55330996279",
+      "swatch": null
+     },
+     {
+      "name": "2 lbs",
+      "id": "gid://shopify/ProductOptionValue/55331029047",
+      "swatch": null
+     },
+     {
+      "name": "3 lbs",
+      "id": "gid://shopify/ProductOptionValue/55331061815",
+      "swatch": null
+     },
+     {
+      "name": "5 lbs",
+      "id": "gid://shopify/ProductOptionValue/55331094583",
+      "swatch": null
+     }
+    ],
+    "id": "gid://shopify/ProductOption/1990265025"
+   }
+  ],
+  "category": {
+   "id": "gid://shopify/TaxonomyCategory/fb-1-3",
+   "name": "Coffee",
+   "ancestors": [
+    {
+     "id": "gid://shopify/TaxonomyCategory/fb-1",
+     "name": "Beverages"
+    },
+    {
+     "id": "gid://shopify/TaxonomyCategory/fb",
+     "name": "Food, Beverages & Tobacco"
+    }
+   ]
+  },
+  "variantsCount": {
+   "count": 8
+  },
+  "descriptionHtml": "<h4>DARKER ROAST FOR BOLDER DAYS.</h4>\n<p>Meet the yin to your yang. While you grit your teeth through the daily grind, know this bold and delicious dark roast brew will have your back all day long. Certified Fair Trade and Organic, our balanced blend of arabica beans for smooth flavor and robusta for natural strength will kick the midday crash to the curb. Find harmony, no matter the horrors your day has in store.</p>\n<p><meta charset=\"utf-8\"><strong>CAFFEINE CONTENT: </strong>Dark Roast Coffee contains approximately 180mg of caffeine based on a 6oz serving following brewing instructions on the package. Learn more about the caffeine content of all Death Wish Coffee products at <a title=\"Learn More About Death Wish Coffee Caffeine Content\" href=\"https://www.deathwishcoffee.com/pages/caffeine\">deathwishcoffee.com/caffeine</a>.</p>\n<p><strong>SUBSCRIBE &amp; SAVE:</strong> Join the Society of Strong Coffee to save 30% off your first shipment and up to 20% off future deliveries. Plus, unlock free shipping on all subscription orders and keep an eye out for exclusive access to upcoming releases.</p>\n<p><meta charset=\"utf-8\"><em>Unless specified in promotional messaging, coffee subscriptions are not eligible for additional discounts or promotional offers.</em></p>",
+  "fullDescription": "DARKER ROAST FOR BOLDER DAYS. Meet the yin to your yang. While you grit your teeth through the daily grind, know this bold and delicious dark roast brew will have your back all day long. Certified Fair Trade and Organic, our balanced blend of arabica beans for smooth flavor and robusta for natural strength will kick the midday crash to the curb. Find harmony, no matter the horrors your day has in store. CAFFEINE CONTENT: Dark Roast Coffee contains approximately 180mg of caffeine based on a 6oz serving following brewing instructions on the package. Learn more about the caffeine content of all Death Wish Coffee products at deathwishcoffee.com/caffeine. SUBSCRIBE & SAVE: Join the Society of Strong Coffee to save 30% off your first shipment and up to 20% off future deliveries. Plus, unlock free shipping on all subscription orders and keep an eye out for exclusive access to upcoming releases. Unless specified in promotional messaging, coffee subscriptions are not eligible for additional discounts or promotional offers.",
+  "seo": {
+   "title": "Fiercely Strong Coffee | Dark Roast Coffee",
+   "description": "Dark Roast. Bold flavor. Sourced from the highest-quality coffee beans in the world and roasted to deep, never-bitter perfection, with notes of dark chocolate + black cherry. This is a pound of power—basic brews not invited. "
+  },
+  "images": {
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductImage/32259671949367",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Ground_Angle_DTC_A4_2.jpg?v=1726752263",
+     "altText": "Death Wish Coffee - Dark Roast Ground 16oz Bag.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/32259671982135",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Whole_Bean_Angle_DTC_A4_2.jpg?v=1726752263",
+     "altText": "Death Wish Coffee - Dark Roast Whole Bean 16oz Bag.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/32622337294391",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_2pk_Ground_Angle_A2_05df07cd-0bf3-4c57-9c37-328540cac0df.jpg?v=1735589536",
+     "altText": "Death Wish Coffee Dark Roast Ground Coffee - 2 Bags.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/32622337327159",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_2pk_WB_Angle_A2_33cd2ea0-18a6-446e-8141-9652b7506702.jpg?v=1752610068",
+     "altText": "Death Wish Coffee Dark Roast Whole Bean Coffee - 2 Bags.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/32622337359927",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_3pk_Ground_Angle_A2_f60d0ef5-ecd0-4e6c-8992-02de2402e709.jpg?v=1752610068",
+     "altText": "Death Wish Coffee Dark Roast Ground Coffee - 3 Bags.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/32622337392695",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_3pk_WB_Angle_A2_01b07f8b-a93f-489b-bd96-9923c20e53ad.jpg?v=1735589536",
+     "altText": "Death Wish Coffee Dark Roast Whole Bean Coffee - 3 Bags.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/32259672014903",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_80oz_Ground_Angle_DTC_A2_2.jpg?v=1735589536",
+     "altText": "Death Wish Coffee - Dark Roast Ground 5lb Bag.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/32259672047671",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_80oz_Whole_Bean_Angle_DTC_A2_2.jpg?v=1752610068",
+     "altText": "Death Wish Coffee - Dark Roast Whole Bean 5lb Bag.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/34512054321207",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_Notes.jpg?v=1762269178",
+     "altText": "Product attributes of Death Wish Coffee Dark Roast.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/34512054353975",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Reap_What_You_Sow.jpg?v=1763041892",
+     "altText": "Death Wish Coffee - Organic and Fair Trade Certified.",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": "gid://shopify/ProductImage/33566385307703",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Core_Bagged_Photo_Rendering_Dark_Roast_B1_1200x1200_1.jpg?v=1761689913",
+     "altText": "Pouring creamer into a cup of Dark Roast Death Wish Coffee.",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "id": "gid://shopify/ProductImage/32663977558071",
+     "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Core_Bagged_Photo_Rendering_Dark_Roast_A1_1200x1200_2.jpg?v=1761690828",
+     "altText": "Pouring Dark Roast Death Wish Coffee into a mug.",
+     "width": 1215,
+     "height": 1215
+    }
+   ]
+  },
+  "media": {
+   "nodes": [
+    {
+     "id": "gid://shopify/MediaImage/24483479683127",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee - Dark Roast Ground 16oz Bag.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Ground_Angle_DTC_A4_2.jpg?v=1726752263",
+      "altText": "Death Wish Coffee - Dark Roast Ground 16oz Bag.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24483479715895",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee - Dark Roast Whole Bean 16oz Bag.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Whole_Bean_Angle_DTC_A4_2.jpg?v=1726752263",
+      "altText": "Death Wish Coffee - Dark Roast Whole Bean 16oz Bag.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24714536419383",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee Dark Roast Ground Coffee - 2 Bags.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_2pk_Ground_Angle_A2_05df07cd-0bf3-4c57-9c37-328540cac0df.jpg?v=1735589536",
+      "altText": "Death Wish Coffee Dark Roast Ground Coffee - 2 Bags.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24714536484919",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee Dark Roast Whole Bean Coffee - 2 Bags.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_2pk_WB_Angle_A2_33cd2ea0-18a6-446e-8141-9652b7506702.jpg?v=1752610068",
+      "altText": "Death Wish Coffee Dark Roast Whole Bean Coffee - 2 Bags.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24714536517687",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee Dark Roast Ground Coffee - 3 Bags.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_3pk_Ground_Angle_A2_f60d0ef5-ecd0-4e6c-8992-02de2402e709.jpg?v=1752610068",
+      "altText": "Death Wish Coffee Dark Roast Ground Coffee - 3 Bags.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24714536452151",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee Dark Roast Whole Bean Coffee - 3 Bags.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_3pk_WB_Angle_A2_01b07f8b-a93f-489b-bd96-9923c20e53ad.jpg?v=1735589536",
+      "altText": "Death Wish Coffee Dark Roast Whole Bean Coffee - 3 Bags.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24483479617591",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee - Dark Roast Ground 5lb Bag.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_80oz_Ground_Angle_DTC_A2_2.jpg?v=1735589536",
+      "altText": "Death Wish Coffee - Dark Roast Ground 5lb Bag.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24483479650359",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee - Dark Roast Whole Bean 5lb Bag.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_80oz_Whole_Bean_Angle_DTC_A2_2.jpg?v=1752610068",
+      "altText": "Death Wish Coffee - Dark Roast Whole Bean 5lb Bag.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/25938881118263",
+     "mediaContentType": "IMAGE",
+     "alt": "Product attributes of Death Wish Coffee Dark Roast.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_Notes.jpg?v=1762269178",
+      "altText": "Product attributes of Death Wish Coffee Dark Roast.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/25938881151031",
+     "mediaContentType": "IMAGE",
+     "alt": "Death Wish Coffee - Organic and Fair Trade Certified.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Reap_What_You_Sow.jpg?v=1763041892",
+      "altText": "Death Wish Coffee - Organic and Fair Trade Certified.",
+      "width": 1500,
+      "height": 1500
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24696288575543",
+     "mediaContentType": "IMAGE",
+     "alt": "Pouring creamer into a cup of Dark Roast Death Wish Coffee.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Core_Bagged_Photo_Rendering_Dark_Roast_B1_1200x1200_1.jpg?v=1761689913",
+      "altText": "Pouring creamer into a cup of Dark Roast Death Wish Coffee.",
+      "width": 1200,
+      "height": 1200
+     }
+    },
+    {
+     "id": "gid://shopify/MediaImage/24743760658487",
+     "mediaContentType": "IMAGE",
+     "alt": "Pouring Dark Roast Death Wish Coffee into a mug.",
+     "previewImage": {
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Core_Bagged_Photo_Rendering_Dark_Roast_A1_1200x1200_2.jpg?v=1761690828",
+      "altText": "Pouring Dark Roast Death Wish Coffee into a mug.",
+      "width": 1215,
+      "height": 1215
+     }
+    }
+   ]
+  },
+  "collections": {
+   "nodes": [
+    {
+     "id": "gid://shopify/Collection/261364940855",
+     "handle": "coffee",
+     "title": "Fair Trade & Organic Coffee",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/coffee"
+    },
+    {
+     "id": "gid://shopify/Collection/261365727287",
+     "handle": "bagged",
+     "title": "Bagged",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/bagged"
+    },
+    {
+     "id": "gid://shopify/Collection/262186532919",
+     "handle": "discount-eligible-products",
+     "title": "Discount Eligible Products",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/discount-eligible-products"
+    },
+    {
+     "id": "gid://shopify/Collection/263581073463",
+     "handle": "dark-roast",
+     "title": "Dark Roast",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/dark-roast"
+    },
+    {
+     "id": "gid://shopify/Collection/264430026807",
+     "handle": "all-products",
+     "title": "All Products",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/all-products"
+    },
+    {
+     "id": "gid://shopify/Collection/265287106615",
+     "handle": "subscription-choices",
+     "title": "Subscriptions",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/subscription-choices"
+    },
+    {
+     "id": "gid://shopify/Collection/265971597367",
+     "handle": "mdw",
+     "title": "MDW",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/mdw"
+    },
+    {
+     "id": "gid://shopify/Collection/266222927927",
+     "handle": "ritual-rewards",
+     "title": "Ritual Rewards",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/ritual-rewards"
+    },
+    {
+     "id": "gid://shopify/Collection/266318053431",
+     "handle": "subscribe-save",
+     "title": "Subscribe & Save",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/subscribe-save"
+    },
+    {
+     "id": "gid://shopify/Collection/266387423287",
+     "handle": "organic-coffee",
+     "title": "Organic Coffee",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/organic-coffee"
+    },
+    {
+     "id": "gid://shopify/Collection/266392404023",
+     "handle": "homepage-carousel",
+     "title": "Homepage Carousel",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/homepage-carousel"
+    },
+    {
+     "id": "gid://shopify/Collection/266419601463",
+     "handle": "ground",
+     "title": "Ground",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/ground"
+    },
+    {
+     "id": "gid://shopify/Collection/266419666999",
+     "handle": "whole-bean",
+     "title": "Whole Bean",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/whole-bean"
+    },
+    {
+     "id": "gid://shopify/Collection/266726998071",
+     "handle": "new-arrivals",
+     "title": "New Arrivals",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/new-arrivals"
+    },
+    {
+     "id": "gid://shopify/Collection/269076922423",
+     "handle": "best-sellers",
+     "title": "Best Sellers",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/best-sellers"
+    },
+    {
+     "id": "gid://shopify/Collection/269576896567",
+     "handle": "dropkick-murphys",
+     "title": "Dropkick Murphys Landing Page Carousel",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/dropkick-murphys"
+    },
+    {
+     "id": "gid://shopify/Collection/270176976951",
+     "handle": "pitch-black",
+     "title": "Pitch Black",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/pitch-black"
+    },
+    {
+     "id": "gid://shopify/Collection/270198964279",
+     "handle": "subscription-add-ons",
+     "title": "Subscription Add-Ons",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/subscription-add-ons"
+    },
+    {
+     "id": "gid://shopify/Collection/272556359735",
+     "handle": "core-bagged-coffee",
+     "title": "Core Bagged Coffee",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/core-bagged-coffee"
+    },
+    {
+     "id": "gid://shopify/Collection/273249665079",
+     "handle": "scoop-gift-with-purchase",
+     "title": "Scoop Gift With Purchase",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/scoop-gift-with-purchase"
+    },
+    {
+     "id": "gid://shopify/Collection/275342196791",
+     "handle": "acquisition-landing-page-carousel",
+     "title": "Acquisition Landing Page Carousel",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/acquisition-landing-page-carousel"
+    },
+    {
+     "id": "gid://shopify/Collection/281056837687",
+     "handle": "labor-day-sale-25-off",
+     "title": "Labor Day Sale - 25% Off",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/labor-day-sale-25-off"
+    },
+    {
+     "id": "gid://shopify/Collection/281506840631",
+     "handle": "national-coffee-day-30-off",
+     "title": "National Coffee Day - 30% Off",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/national-coffee-day-30-off"
+    },
+    {
+     "id": "gid://shopify/Collection/281905266743",
+     "handle": "bundle-builder-bagged-coffee",
+     "title": "Bundle Builder - Bagged Coffee",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/bundle-builder-bagged-coffee"
+    },
+    {
+     "id": "gid://shopify/Collection/281906642999",
+     "handle": "bundle-builder",
+     "title": "Bundle Builder",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/bundle-builder"
+    },
+    {
+     "id": "gid://shopify/Collection/282003734583",
+     "handle": "discount-eligible-excl-gwp",
+     "title": "Discount Eligible Excl. GWP",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/discount-eligible-excl-gwp"
+    },
+    {
+     "id": "gid://shopify/Collection/282018349111",
+     "handle": "coffee-excl-bundles",
+     "title": "Coffee (Excl. Bundles)",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/coffee-excl-bundles"
+    },
+    {
+     "id": "gid://shopify/Collection/282555121719",
+     "handle": "black-friday-cyber-monday-deals",
+     "title": "Black Friday/Cyber Monday Deals",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/black-friday-cyber-monday-deals"
+    },
+    {
+     "id": "gid://shopify/Collection/472425857079",
+     "handle": "national-coffee-day",
+     "title": "National Coffee Day - 25% Off",
+     "onlineStoreUrl": "https://www.deathwishcoffee.com/collections/national-coffee-day"
+    }
+   ]
+  },
+  "sellingPlanGroups": {
+   "nodes": [
+    {
+     "name": "Subscribe and Save",
+     "appName": "ordergroove-subscribe-and-save",
+     "options": [
+      {
+       "name": "Delivery every",
+       "values": [
+        "30 days",
+        "60 days",
+        "90 days"
+       ]
+      }
+     ],
+     "sellingPlans": {
+      "nodes": [
+       {
+        "id": "gid://shopify/SellingPlan/2020048951",
+        "name": "Delivered every 30 days",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "30 days"
+         }
+        ],
+        "priceAdjustments": []
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2020081719",
+        "name": "Delivered every 60 days",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "60 days"
+         }
+        ],
+        "priceAdjustments": []
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2020114487",
+        "name": "Delivered every 90 days",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "90 days"
+         }
+        ],
+        "priceAdjustments": []
+       }
+      ]
+     }
+    },
+    {
+     "name": "Prepaid-3436627623949",
+     "appName": null,
+     "options": [
+      {
+       "name": "Delivery every",
+       "values": [
+        "PREPAID-1 month"
+       ]
+      },
+      {
+       "name": "Shipment amount",
+       "values": [
+        "3 shipments",
+        "6 shipments"
+       ]
+      }
+     ],
+     "sellingPlans": {
+      "nodes": [
+       {
+        "id": "gid://shopify/SellingPlan/611418167",
+        "name": "Delivered every 1 month, prepaid for 3 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "3 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "77.96",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2868510775",
+        "name": "Delivered every 1 month, prepaid for 6 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "6 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "155.92",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Prepaid-3436706430989",
+     "appName": null,
+     "options": [
+      {
+       "name": "Delivery every",
+       "values": [
+        "PREPAID-1 month"
+       ]
+      },
+      {
+       "name": "Shipment amount",
+       "values": [
+        "3 shipments",
+        "6 shipments"
+       ]
+      }
+     ],
+     "sellingPlans": {
+      "nodes": [
+       {
+        "id": "gid://shopify/SellingPlan/611450935",
+        "name": "Delivered every 1 month, prepaid for 3 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "3 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "77.96",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2868445239",
+        "name": "Delivered every 1 month, prepaid for 6 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "6 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "155.92",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Prepaid-3436746801165",
+     "appName": null,
+     "options": [
+      {
+       "name": "Delivery every",
+       "values": [
+        "PREPAID-1 month"
+       ]
+      },
+      {
+       "name": "Shipment amount",
+       "values": [
+        "3 shipments",
+        "6 shipments"
+       ]
+      }
+     ],
+     "sellingPlans": {
+      "nodes": [
+       {
+        "id": "gid://shopify/SellingPlan/611483703",
+        "name": "Delivered every 1 month, prepaid for 3 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "3 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "165.73",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2868478007",
+        "name": "Delivered every 1 month, prepaid for 6 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "6 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "331.46",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Prepaid-3436752928781",
+     "appName": null,
+     "options": [
+      {
+       "name": "Delivery every",
+       "values": [
+        "PREPAID-1 month"
+       ]
+      },
+      {
+       "name": "Shipment amount",
+       "values": [
+        "3 shipments",
+        "6 shipments"
+       ]
+      }
+     ],
+     "sellingPlans": {
+      "nodes": [
+       {
+        "id": "gid://shopify/SellingPlan/611516471",
+        "name": "Delivered every 1 month, prepaid for 3 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "3 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "165.73",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2868412471",
+        "name": "Delivered every 1 month, prepaid for 6 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "6 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "331.46",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Prepaid-40258822012983",
+     "appName": null,
+     "options": [
+      {
+       "name": "Delivery every",
+       "values": [
+        "PREPAID-1 month"
+       ]
+      },
+      {
+       "name": "Shipment amount",
+       "values": [
+        "3 shipments",
+        "6 shipments"
+       ]
+      }
+     ],
+     "sellingPlans": {
+      "nodes": [
+       {
+        "id": "gid://shopify/SellingPlan/985956407",
+        "name": "Delivered every 1 month, prepaid for 3 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "3 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "116.94",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2871623735",
+        "name": "Delivered every 1 month, prepaid for 6 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "6 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "233.88",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Prepaid-40258822045751",
+     "appName": "ordergroove-prepaid-and-save",
+     "options": [
+      {
+       "name": "Delivery every",
+       "values": [
+        "PREPAID-1 month"
+       ]
+      },
+      {
+       "name": "Shipment amount",
+       "values": [
+        "3 shipments",
+        "6 shipments"
+       ]
+      }
+     ],
+     "sellingPlans": {
+      "nodes": [
+       {
+        "id": "gid://shopify/SellingPlan/2871656503",
+        "name": "Delivered every 1 month, prepaid for 3 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "3 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "116.94",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       },
+       {
+        "id": "gid://shopify/SellingPlan/2871689271",
+        "name": "Delivered every 1 month, prepaid for 6 shipments",
+        "description": null,
+        "recurringDeliveries": true,
+        "options": [
+         {
+          "name": "Delivery every",
+          "value": "PREPAID-1 month"
+         },
+         {
+          "name": "Shipment amount",
+          "value": "6 shipments"
+         }
+        ],
+        "priceAdjustments": [
+         {
+          "orderCount": null,
+          "adjustmentValue": {
+           "__typename": "SellingPlanFixedPriceAdjustment",
+           "price": {
+            "amount": "233.88",
+            "currencyCode": "USD"
+           }
+          }
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "variants": {
+   "pageInfo": {
+    "hasNextPage": false,
+    "endCursor": "eyJsYXN0X2lkIjozNDM2NzUyOTI4NzgxLCJsYXN0X3ZhbHVlIjo4LCJvZmZzZXQiOjd9"
+   },
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/2413985169421",
+     "title": "Ground / 1 lb",
+     "sku": "50251G",
+     "barcode": "851552005025",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 1.19,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "19.99",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Ground"
+      },
+      {
+       "name": "Size",
+       "value": "1 lb"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32259671949367",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Ground_Angle_DTC_A4_2.jpg?v=1726752263",
+      "altText": "Death Wish Coffee - Dark Roast Ground 16oz Bag.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/3436627623949",
+     "title": "Ground / 2 lbs",
+     "sku": "50252GK",
+     "barcode": "851552005025",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.4,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "39.98",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Ground"
+      },
+      {
+       "name": "Size",
+       "value": "2 lbs"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32622337294391",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_2pk_Ground_Angle_A2_05df07cd-0bf3-4c57-9c37-328540cac0df.jpg?v=1735589536",
+      "altText": "Death Wish Coffee Dark Roast Ground Coffee - 2 Bags.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/40258822012983",
+     "title": "Ground / 3 lbs",
+     "sku": "LKGDRK48",
+     "barcode": "851552005025",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 3.6,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "59.97",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Ground"
+      },
+      {
+       "name": "Size",
+       "value": "3 lbs"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32622337359927",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_3pk_Ground_Angle_A2_f60d0ef5-ecd0-4e6c-8992-02de2402e709.jpg?v=1752610068",
+      "altText": "Death Wish Coffee Dark Roast Ground Coffee - 3 Bags.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/3436746801165",
+     "title": "Ground / 5 lbs",
+     "sku": "50255G",
+     "barcode": "851552005056",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 5.4,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "84.99",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Ground"
+      },
+      {
+       "name": "Size",
+       "value": "5 lbs"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32259672014903",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_80oz_Ground_Angle_DTC_A2_2.jpg?v=1735589536",
+      "altText": "Death Wish Coffee - Dark Roast Ground 5lb Bag.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/2414002503693",
+     "title": "Whole Bean / 1 lb",
+     "sku": "50251W",
+     "barcode": "851552005100",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 1.19,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "19.99",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Whole Bean"
+      },
+      {
+       "name": "Size",
+       "value": "1 lb"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32259671982135",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_16oz_Whole_Bean_Angle_DTC_A4_2.jpg?v=1726752263",
+      "altText": "Death Wish Coffee - Dark Roast Whole Bean 16oz Bag.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/3436706430989",
+     "title": "Whole Bean / 2 lbs",
+     "sku": "50252WK",
+     "barcode": "851552005100",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 2.4,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "39.98",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Whole Bean"
+      },
+      {
+       "name": "Size",
+       "value": "2 lbs"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32622337327159",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_2pk_WB_Angle_A2_33cd2ea0-18a6-446e-8141-9652b7506702.jpg?v=1752610068",
+      "altText": "Death Wish Coffee Dark Roast Whole Bean Coffee - 2 Bags.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/40258822045751",
+     "title": "Whole Bean / 3 lbs",
+     "sku": "LKWDRK48",
+     "barcode": "851552005100",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 3.6,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "59.97",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Whole Bean"
+      },
+      {
+       "name": "Size",
+       "value": "3 lbs"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32622337392695",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/DR_16oz_3pk_WB_Angle_A2_01b07f8b-a93f-489b-bd96-9923c20e53ad.jpg?v=1735589536",
+      "altText": "Death Wish Coffee Dark Roast Whole Bean Coffee - 3 Bags.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    },
+    {
+     "id": "gid://shopify/ProductVariant/3436752928781",
+     "title": "Whole Bean / 5 lbs",
+     "sku": "50255W",
+     "barcode": "851552005087",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "requiresShipping": true,
+     "taxable": true,
+     "weight": 5.4,
+     "weightUnit": "POUNDS",
+     "price": {
+      "amount": "84.99",
+      "currencyCode": "USD"
+     },
+     "compareAtPrice": null,
+     "unitPrice": null,
+     "unitPriceMeasurement": {
+      "measuredType": null,
+      "quantityUnit": null,
+      "quantityValue": 0.0,
+      "referenceUnit": null,
+      "referenceValue": 0
+     },
+     "selectedOptions": [
+      {
+       "name": "Type",
+       "value": "Whole Bean"
+      },
+      {
+       "name": "Size",
+       "value": "5 lbs"
+      }
+     ],
+     "image": {
+      "id": "gid://shopify/ProductImage/32259672047671",
+      "url": "https://cdn.shopify.com/s/files/1/0271/7209/files/Dark_Roast_80oz_Whole_Bean_Angle_DTC_A2_2.jpg?v=1752610068",
+      "altText": "Death Wish Coffee - Dark Roast Whole Bean 5lb Bag.",
+      "width": 1500,
+      "height": 1500
+     },
+     "quantityRule": {
+      "minimum": 1,
+      "maximum": null,
+      "increment": 1
+     }
+    }
+   ]
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "product": {
+  "id": "gid://shopify/Product/1878193471557",
+  "handle": "mens-wool-runners",
+  "title": "Men's Wool Runner - Natural Grey (Light Grey Sole)",
+  "onlineStoreUrl": "https://www.allbirds.com/products/mens-wool-runners",
+  "availableForSale": true,
+  "variants": {
+   "pageInfo": {
+    "hasNextPage": false,
+    "endCursor": "eyJsYXN0X2lkIjozMTI0MzYyNjc0MTg0MCwibGFzdF92YWx1ZSI6Nywib2Zmc2V0Ijo2fQ=="
+   },
+   "nodes": [
+    {
+     "id": "gid://shopify/ProductVariant/31338073981072",
+     "title": "8",
+     "sku": "WR3MNCW080",
+     "availableForSale": false,
+     "currentlyNotInStock": false,
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "8"
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/ProductVariant/31330825109584",
+     "title": "9",
+     "sku": "WR3MNCW090",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "9"
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/ProductVariant/30674260033616",
+     "title": "10",
+     "sku": "WR3MNCW100",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "10"
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/ProductVariant/30674264817744",
+     "title": "11",
+     "sku": "WR3MNCW110",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "11"
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/ProductVariant/30750381375568",
+     "title": "12",
+     "sku": "WR3MNCW120",
+     "availableForSale": false,
+     "currentlyNotInStock": false,
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "12"
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/ProductVariant/31223893393488",
+     "title": "13",
+     "sku": "WR3MNCW130",
+     "availableForSale": true,
+     "currentlyNotInStock": false,
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "13"
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/ProductVariant/31243626741840",
+     "title": "14",
+     "sku": "WR3MNCW140",
+     "availableForSale": false,
+     "currentlyNotInStock": false,
+     "selectedOptions": [
+      {
+       "name": "Size",
+       "value": "14"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "_context": {
+  "country": "US",
+  "language": "EN"
+ }
+}
