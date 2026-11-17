@@ -15,7 +15,7 @@ A headless frontend prints none of that but still references
 `<shop>.myshopify.com` (checkout links, image URLs, config blobs).
 """
 import html as html_lib
-import json
+import fastjson
 import re
 from collections import Counter
 from urllib.parse import urljoin, urlparse
@@ -92,7 +92,7 @@ def _theme(html):
     if not match:
         return None
     try:
-        raw = json.loads(match.group(1))
+        raw = fastjson.loads(match.group(1))
     except ValueError:
         return None
     return raw if isinstance(raw, dict) else None

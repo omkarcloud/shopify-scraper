@@ -50,14 +50,16 @@ import sys
 import threading
 import time
 from collections import OrderedDict
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait as wait_futures
 from urllib.parse import urlparse
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
+import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from shopify import queries, storefront
+from scraper_utils import debug, fanout
 
 IMPERSONATE = "chrome"
 TIMEOUT = 40
@@ -70,12 +72,12 @@ NOT_FOUND_TTL = 600
 
 JSON_HEADERS = {
     "accept": "application/json",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("shopify"),
     "content-type": "application/json",
 }
 PAGE_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("shopify"),
     "upgrade-insecure-requests": "1",
 }
 _BLOCK_STATUSES = (403, 429, 430)
@@ -178,14 +180,7 @@ def _drop_sessions():
 
 
 def dump_debug(name, text):
-    dbg = os.environ.get("SHOPIFY_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w", encoding="utf-8") as f:
-                f.write(text)
-        except OSError:
-            pass
+    debug.dump("SHOPIFY_DEBUG_DIR", name, text, encoding="utf-8")
 
 
 # ---- raw requests ---------------------------------------------------------------
@@ -357,13 +352,17 @@ def resolve(host):
 
 def _resolve(host):
     origin = f"https://{host}"
-    with ThreadPoolExecutor(max_workers=2) as ex:
-        home_future = ex.submit(_load_home, host)
-        probe_error = None
-        try:
-            found = _probe_retrying(origin)
-        except ShopifyBlocked as e:
-            found, probe_error = None, e
+    # the home page and the probe in parallel on the long-lived pool
+    # (inline when already on it: a pool thread must not wait on the pool)
+    on_pool = threading.current_thread().name.startswith("shopify-fanout")
+    home_future = None if on_pool else _pools[0].submit(_load_home, host)
+    home = _load_home(host) if on_pool else None
+    probe_error = None
+    try:
+        found = _probe_retrying(origin)
+    except ShopifyBlocked as e:
+        found, probe_error = None, e
+    if home_future is not None:
         home = home_future.result()
 
     public_origin = (home or {}).get("origin") or origin
@@ -599,14 +598,30 @@ def inspect(host):
 
 # ---- fan-out ------------------------------------------------------------------------
 
+# Long-lived pools (2026-10-23): their threads keep their thread-local curl
+# sessions — and the sticky exits behind them — between requests. The
+# per-call executor they replace opened fresh sessions/exits for every
+# fan-out and threw them away when the call returned. Two levels: a fan-out
+# running inside a fan-out goes to the second pool, so it neither waits on
+# the workers it occupies (deadlock) nor loses its parallelism; a third
+# level runs inline.
+_pools = (ThreadPoolExecutor(max_workers=FANOUT_WORKERS * 4, thread_name_prefix="shopify-fanout-0"),
+          ThreadPoolExecutor(max_workers=FANOUT_WORKERS * 4, thread_name_prefix="shopify-fanout-1"))
+
+
+def _windowed(fns, workers):
+    """Run `fns` on the pool for this nesting level, at most `workers` at a
+    time; results align with `fns`. The first failure (in `fns` order)
+    propagates once the callables already started have finished."""
+    return fanout.windowed(_pools, "shopify-fanout", fns, workers)
+
+
 def run_parallel(fns):
     if not fns:
         return []
     if len(fns) == 1:
         return [fns[0]()]
-    with ThreadPoolExecutor(max_workers=min(FANOUT_WORKERS, len(fns))) as ex:
-        futures = [ex.submit(fn) for fn in fns]
-        return [f.result() for f in futures]
+    return _windowed(fns, FANOUT_WORKERS)
 
 
 def gather(mapping):

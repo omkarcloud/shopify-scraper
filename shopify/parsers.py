@@ -8,47 +8,20 @@ noise), identity first / nested objects after / timestamps last. Every
 function tolerates a partial node — a missing or mistyped field becomes null,
 never an exception.
 """
-import json
+import fastjson
 import re
 from datetime import datetime, timezone
 
 from contact_scraper.html_text import html_to_soup, soup_to_text
 from shopify import refs
+from scraper_utils.values import as_dict, as_list, bool_or_none, num as to_float, to_int
+from scraper_utils.text import trimmed as text
 
 DEFAULT_OPTION = "Title"
 DEFAULT_VALUE = "Default Title"
 
 
 # ---- scalars --------------------------------------------------------------------
-
-def text(value):
-    """Trimmed string or None ("" and whitespace are None)."""
-    if value is None or isinstance(value, (dict, list)):
-        return None
-    value = str(value).strip()
-    return value or None
-
-
-def to_float(value):
-    if value is None or isinstance(value, bool):
-        return None
-    try:
-        return float(value)
-    except (TypeError, ValueError):
-        return None
-
-
-def to_int(value):
-    if value is None or isinstance(value, bool):
-        return None
-    try:
-        return int(float(value))
-    except (TypeError, ValueError):
-        return None
-
-
-def bool_or_none(value):
-    return value if isinstance(value, bool) else None
 
 
 def iso_datetime(value):
@@ -63,14 +36,6 @@ def iso_datetime(value):
     if parsed.tzinfo is None:
         parsed = parsed.replace(tzinfo=timezone.utc)
     return parsed.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-
-
-def as_dict(value):
-    return value if isinstance(value, dict) else {}
-
-
-def as_list(value):
-    return value if isinstance(value, list) else []
 
 
 def nodes(connection):
@@ -207,7 +172,7 @@ def _rating(raw):
     value = text(as_dict(raw.get("rating")).get("value"))
     if value:
         try:
-            parsed = json.loads(value)
+            parsed = fastjson.loads(value)
             rating = to_float(parsed.get("value")) if isinstance(parsed, dict) else to_float(parsed)
         except ValueError:
             rating = to_float(value)
@@ -395,7 +360,7 @@ def metafields(raw_list):
         kind = text(field.get("type"))
         if kind and (kind.startswith("json") or kind.startswith("list.") or kind in ("rating", "dimension", "weight", "volume", "money")):
             try:
-                value = json.loads(value)
+                value = fastjson.loads(value)
             except (TypeError, ValueError):
                 pass
         elif kind in ("number_integer", "number_decimal"):
@@ -467,7 +432,7 @@ def facets(raw_filters):
         if kind == "price_range":
             bounds = {}
             try:
-                bounds = as_dict(as_dict(json.loads(values[0].get("input") or "{}")).get("price")) if values else {}
+                bounds = as_dict(as_dict(fastjson.loads(values[0].get("input") or "{}")).get("price")) if values else {}
             except ValueError:
                 pass
             item["min"], item["max"] = to_float(bounds.get("min")), to_float(bounds.get("max"))
